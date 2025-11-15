@@ -1,0 +1,3001 @@
+Student ID,Study Hours per Week,Attendance Rate,Previous Grades,Participation in Extracurricular Activities,Parent Education Level,Passed
+S00001,12.5,,75,Yes,Master,Yes
+S00002,9.3,95.3,60.6,No,High School,No
+S00003,13.2,,64,No,Associate,No
+S00004,17.6,76.8,62.4,Yes,Bachelor,No
+S00005,8.8,89.3,72.7,No,Master,No
+S00006,8.8,73.8,69.3,Yes,High School,Yes
+S00007,17.9,38.6,93.6,No,Doctorate,Yes
+S00008,13.8,95.8,59.2,Yes,Doctorate,No
+S00009,,100.1,91.9,No,Bachelor,Yes
+S00010,12.7,38.4,37.8,Yes,High School,nan
+S00011,7.7,54.1,72.3,No,Master,No
+S00012,7.7,115.5,41.2,Yes,Master,No
+S00013,11.2,79.6,49.6,Yes,Bachelor,nan
+S00014,0.4,75.1,50.4,nan,nan,Yes
+S00015,1.4,66.5,49.2,No,Associate,Yes
+S00016,7.2,54.4,55.9,Yes,High School,No
+S00017,4.9,71.1,98,Yes,High School,No
+S00018,11.6,94.5,51.8,No,Bachelor,Yes
+S00019,,74.7,40.8,No,Doctorate,No
+S00020,2.9,87.2,72.4,No,Associate,Yes
+S00021,17.3,110.3,68.6,No,Bachelor,Yes
+S00022,8.9,63.4,98.2,No,Doctorate,No
+S00023,10.3,81.1,64.4,No,High School,No
+S00024,2.9,95.1,30.7,None,Bachelor,Yes
+S00025,7.3,56.3,58.6,Yes,High School,Yes
+S00026,10.6,,58.3,No,Doctorate,Yes
+S00027,4.2,112.4,46.5,nan,High School,Yes
+S00028,11.9,68.2,56.6,Yes,High School,No
+S00029,7,96.4,62.8,Yes,Associate,N
+S00030,8.5,72.2,64.1,No,Doctorate,Yes
+S00031,7,111,44.3,No,Doctorate,Yes
+S00032,19.3,42.1,74.1,Yes,Associate,Yes
+S00033,9.9,76.3,89.5,No,Associate,No
+S00034,4.7,45.4,69.2,No,Doctorate,Yes
+S00035,14.1,61,81.6,No,High School,Yes
+S00036,3.9,60.9,67.7,Yes,Master,No
+S00037,11,69.7,49.3,Yes,Master,Yes
+S00038,0.2,51.2,69.1,No,Master,Yes
+S00039,3.4,73.6,57.5,Yes,Master,Yes
+S00040,11,84.2,48.4,No,Master,Yes
+S00041,,44.4,63.8,Yes,Master,Yes
+S00042,10.9,62.3,77.3,Yes,Bachelor,Yes
+S00043,9.4,125.8,59.9,Yes,Associate,No
+S00044,8.5,81.6,94.1,Yes,nan,No
+S00045,2.6,38.6,79.3,No,Doctorate,Yes
+S00046,6.4,47,56.8,No,High School,No
+S00047,7.7,79.5,56.3,No,Doctorate,No
+S00048,15.3,77,97.2,Yes,High School,Yes
+S00049,,63.3,60,nan,Associate,No
+S00050,1.2,118.9,70.5,No,Master,Yes
+S00051,11.6,127.4,71.3,Yes,High School,Yes
+S00052,8.1,69.7,39.1,No,Doctorate,No
+S00053,6.6,92.5,39.3,Yes,Doctorate,Yes
+S00054,13.1,93.5,,None,nan,Yes
+S00055,15.2,96.1,49.3,Yes,nan,nan
+S00056,14.7,62.2,65.2,No,Bachelor,Yes
+S00057,5.8,113.8,42.3,Yes,Doctorate,Yes
+S00058,8.5,73.6,60.1,Yes,nan,No
+S00059,11.7,83.4,68.2,No,Master,Yes
+S00060,14.9,75,34.1,No,High School,No
+S00061,7.6,72.2,65.8,No,High School,Yes
+S00062,9.1,80.6,66.6,No,Bachelor,No
+S00063,4.5,51.3,58,Yes,Associate,Yes
+S00064,4,35.6,48.5,Yes,Associate,Yes
+S00065,14.1,70.7,59.4,Yes,High School,No
+S00066,16.8,57.4,59.4,No,High School,Yes
+S00067,9.6,86,93.9,No,Associate,No
+S00068,15,83.7,63.2,Yes,nan,Yes
+S00069,11.8,75.3,58,No,Doctorate,N
+S00070,6.8,104.6,63.2,No,Associate,No
+S00071,11.8,74.9,71.4,nan,Master,Yes
+S00072,17.7,45.8,70.8,Yes,Bachelor,Yes
+S00073,9.8,70.5,71.7,Yes,Master,No
+S00074,17.8,98.4,74,No,Doctorate,Yes
+S00075,-3.1,37.3,43.1,No,Master,Yes
+S00076,14.1,73.1,72.7,No,Doctorate,Yes
+S00077,10.4,86.5,67.8,No,Doctorate,Yes
+S00078,8.5,128,55.7,Yes,Bachelor,Yes
+S00079,10.5,99.2,66.6,No,High School,Yes
+S00080,0.1,77.7,63.4,No,Associate,Yes
+S00081,8.9,85.4,64.7,No,Doctorate,Yes
+S00082,11.8,37,67.6,No,Master,Yes
+S00083,17.4,,39.8,No,Master,No
+S00084,7.4,,68.9,No,Bachelor,nan
+S00085,6,78.2,74.8,No,Bachelor,Yes
+S00086,7.5,80.8,68.7,No,Doctorate,Yes
+S00087,14.6,75.7,54.1,Yes,Master,No
+S00088,11.6,74.9,52.1,Yes,Master,No
+S00089,7.4,77.1,67.7,Yes,Bachelor,Yes
+S00090,12.6,53.9,77,No,Doctorate,No
+S00091,10.5,70.4,84.6,Yes,nan,No
+S00092,14.8,,76.5,Yes,High School,Yes
+S00093,6.5,62.6,72.7,Yes,High School,Yes
+S00094,8.4,98.9,26.9,No,Doctorate,Yes
+S00095,8,71.4,,No,Doctorate,No
+S00096,2.7,86.9,,No,Associate,No
+S00097,11.5,77.3,54.8,No,Associate,Yes
+S00098,11.3,67.3,200,Yes,Master,Yes
+S00099,,54.8,49.1,Yes,Associate,Yes
+S00100,8.8,67,91.5,No,Associate,No
+S00101,2.9,78.7,45.5,No,Master,nan
+S00102,7.9,86.6,61.8,No,High School,No
+S00103,,77.4,54.1,Yes,Bachelor,Yes
+S00104,6,88,52,No,High School,No
+S00105,9.2,44.6,71.2,Yes,Doctorate,Yes
+S00106,12,92.3,77.3,Yes,Doctorate,Yes
+S00107,19.4,52.4,47.3,Yes,Associate,Yes
+S00108,10.9,94.7,65.8,Yes,Master,Yes
+S00109,11.3,,63.3,No,Associate,Yes
+S00110,9.6,37.6,58.2,Yes,Master,Yes
+S00111,,89.7,51,Yes,High School,No
+S00112,9.9,94.9,81.6,Yes,Bachelor,No
+S00113,10.3,100.2,49.5,No,High School,Yes
+S00114,22.3,59.6,45.5,Yes,Associate,No
+S00115,9,78.6,81.5,Yes,Associate,Yes
+S00116,11.5,88.9,68,No,High School,Yes
+S00117,9.8,89.7,47.3,Yes,Associate,nan
+S00118,4.2,83.2,63.8,No,Doctorate,Yes
+S00119,15.7,66.5,55.6,nan,Bachelor,Y
+S00120,13.8,94.8,87.3,Yes,Doctorate,Yes
+S00121,14,94.9,61.4,No,nan,Yes
+S00122,5.5,71.9,73,No,High School,Yes
+S00123,17,59.3,64.7,Yes,Doctorate,No
+S00124,3,,86.6,No,Doctorate,No
+S00125,12.9,102.3,68.1,No,Bachelor,Yes
+S00126,21,94,82.4,Yes,Bachelor,No
+S00127,,74.6,73.1,No,Associate,No
+S00128,7.2,71,56.7,No,Doctorate,Yes
+S00129,10.5,39.6,65,Yes,Master,Yes
+S00130,7.5,73.3,61.8,No,Master,Yes
+S00131,2.2,51.2,56.4,Yes,High School,No
+S00132,10.3,78.2,48.8,No,Bachelor,No
+S00133,4.7,98.7,85.4,No,Master,Yes
+S00134,12.4,55.4,34.1,No,Bachelor,No
+S00135,5.4,79.8,85,No,High School,No
+S00136,17.7,95,44.9,Yes,Doctorate,Yes
+S00137,6.1,79.4,73.1,No,Associate,Yes
+S00138,8.4,64.5,56.2,Yes,Bachelor,Yes
+S00139,14.1,75.2,40,No,nan,Yes
+S00140,3.8,94.1,82.2,No,Doctorate,Yes
+S00141,11.1,80.3,29,Yes,Associate,Yes
+S00142,16.5,74.9,76.9,No,Associate,No
+S00143,2,98.1,66.9,nan,High School,Yes
+S00144,10.9,85.3,80.8,No,Bachelor,Yes
+S00145,11.3,50.9,74.4,Yes,High School,Yes
+S00146,13.9,87.6,74.2,Yes,Doctorate,No
+S00147,3.8,94,78.5,No,Doctorate,Yes
+S00148,3.4,50.3,,Yes,Associate,No
+S00149,12.6,29.6,,N,High School,No
+S00150,11.5,54.2,60,No,High School,No
+S00151,11.3,73,61.6,Yes,Master,Yes
+S00152,11.7,95.2,66.6,No,Doctorate,Yes
+S00153,6.6,57.2,61,No,Master,nan
+S00154,11.2,86.1,97.8,No,Bachelor,Yes
+S00155,11.5,17.2,63.7,Yes,Bachelor,No
+S00156,6.4,78.6,47.8,No,Associate,No
+S00157,19.3,66.9,63.2,Yes,Master,No
+S00158,12.4,117,52.4,No,Master,No
+S00159,4,37.2,94.4,Yes,Bachelor,Yes
+S00160,,,66.5,nan,Doctorate,Yes
+S00161,5.1,37,74.5,No,Bachelor,No
+S00162,13.9,64,72.7,No,Master,Yes
+S00163,15.8,41,79.2,No,Doctorate,Yes
+S00164,5.9,121,68.6,Yes,Doctorate,No
+S00165,14.8,67.9,59,Yes,Associate,nan
+S00166,12.1,70.8,65.7,No,High School,No
+S00167,14.1,74.1,46.6,No,Master,No
+S00168,19.5,52.4,,Yes,Doctorate,nan
+S00169,8.8,96.1,91.9,No,Bachelor,No
+S00170,6.2,87.8,76,No,Doctorate,No
+S00171,5.6,93.4,63.4,No,Bachelor,No
+S00172,5.9,50.6,,Yes,Master,Yes
+S00173,9.6,97.7,55.9,No,High School,No
+S00174,11.7,95.4,70.1,No,Master,Yes
+S00175,11.4,70.4,60.5,Yes,Bachelor,No
+S00176,14.1,92.9,61.9,No,Doctorate,No
+S00177,10.1,80.5,70.9,Yes,Associate,Yes
+S00178,17.3,43.1,73.6,No,Doctorate,Yes
+S00179,8.7,71.3,62,Yes,Bachelor,Yes
+S00180,,65.4,52.5,Yes,Bachelor,Yes
+S00181,13.1,76.7,92.5,Yes,nan,Yes
+S00182,5.7,95.4,66.5,No,Associate,Yes
+S00183,4.6,,49.4,No,nan,No
+S00184,12.4,66.1,49.7,Yes,Associate,No
+S00185,8.9,58.6,94.9,No,Associate,No
+S00186,13.6,59.4,102,Yes,High School,No
+S00187,12.4,58.5,70,nan,Master,No
+S00188,9.6,76.4,55.8,No,Doctorate,Yes
+S00189,5.8,85.5,,Yes,Associate,Yes
+S00190,2.4,82,60.4,Yes,Associate,Yes
+S00191,7.8,78.7,73.6,No,Master,nan
+S00192,14.3,87.4,70.3,No,Doctorate,nan
+S00193,11.1,122.6,64.5,No,Doctorate,Yes
+S00194,3.8,77.7,63.7,Yes,Bachelor,Yes
+S00195,10.9,95.4,61.7,No,Associate,No
+S00196,11.9,94.3,79.2,No,High School,No
+S00197,5.6,110.6,62.1,Yes,High School,No
+S00198,10.8,86.2,95.8,No,Master,Yes
+S00199,10.3,58.1,97.2,No,High School,Yes
+S00200,,81.1,59.3,No,Bachelor,No
+S00201,11.8,80,59.6,No,Associate,Yes
+S00202,12.8,91.3,64.3,Yes,Bachelor,Yes
+S00203,15.4,57.5,55.4,Yes,Associate,Yes
+S00204,15.3,100.3,77.8,Yes,High School,Yes
+S00205,3.1,75.1,82.8,No,Master,Yes
+S00206,5.3,91.8,84.3,Yes,Associate,Yes
+S00207,12.6,81.2,61.9,No,Bachelor,No
+S00208,12.6,77.5,61.7,No,Associate,Yes
+S00209,12.6,79.7,35.1,No,Bachelor,Y
+S00210,29.3,,55.1,Yes,Bachelor,Yes
+S00211,12.9,114.2,51,No,Doctorate,No
+S00212,15.7,34.7,48.4,No,Master,No
+S00213,14.8,85.8,57.7,Yes,nan,nan
+S00214,13.3,75.9,60.4,No,High School,No
+S00215,8.4,71.5,64.6,Yes,Associate,No
+S00216,13.8,27.7,85.4,No,Bachelor,Yes
+S00217,6.1,86.6,82.5,Yes,nan,No
+S00218,8.8,,48.1,Yes,Doctorate,nan
+S00219,7.6,58.3,71.4,No,Associate,No
+S00220,10.4,75.8,53,Yes,Associate,No
+S00221,21.6,69.1,67.2,Yes,Bachelor,Yes
+S00222,0.7,40.2,,No,High School,Yes
+S00223,13.4,76.8,57.7,Yes,Bachelor,Yes
+S00224,1.9,86.6,50.2,Yes,Bachelor,Yes
+S00225,7.6,64,65.8,Yes,Associate,Yes
+S00226,15.4,80.2,84.8,No,Doctorate,Yes
+S00227,10.3,77.2,95.1,nan,Master,Yes
+S00228,4.6,95.9,55.8,No,Associate,No
+S00229,6.4,72.9,67,Yes,Master,Yes
+S00230,,91,69.1,Yes,High School,Yes
+S00231,,68.7,43.7,No,Master,No
+S00232,11.1,114.3,42.9,Yes,High School,No
+S00233,10.2,66.3,69.9,Yes,High School,No
+S00234,6.7,61.3,59.4,Yes,Associate,No
+S00235,20.7,73,44,Yes,Doctorate,No
+S00236,13.2,60.4,,Yes,High School,Yes
+S00237,-0.1,50,65.9,No,Bachelor,No
+S00238,10.9,89.6,65.2,Yes,Master,No
+S00239,6.7,13.7,48.6,nan,Master,No
+S00240,14.3,60.6,39.4,Yes,High School,No
+S00241,6,48.2,56,No,nan,No
+S00242,9.4,77.8,65.7,Yes,Bachelor,No
+S00243,12.5,31.2,54.4,No,Associate,No
+S00244,14.3,86,48.5,No,Doctorate,Yes
+S00245,4,,59.4,Yes,Bachelor,Yes
+S00246,8.3,42.3,65.5,No,Associate,Yes
+S00247,7.6,78.8,86.2,nan,Doctorate,No
+S00248,6.7,85.3,67.3,No,Doctorate,Yes
+S00249,18.8,93.8,43,No,Bachelor,Yes
+S00250,12,45.6,34.7,No,Master,No
+S00251,3.7,42.8,28.2,No,Master,Yes
+S00252,14.6,105.1,70.1,No,High School,Yes
+S00253,20.6,58.6,49.2,Yes,Associate,No
+S00254,15.2,64.5,72.5,No,Master,No
+S00255,2.4,,,Yes,Associate,Yes
+S00256,7.6,51.6,73.9,Yes,High School,No
+S00257,16.3,69.7,61.6,No,Bachelor,No
+S00258,6.5,92.8,92.7,Yes,Bachelor,Yes
+S00259,12.2,46.6,58.1,No,Master,No
+S00260,13.9,65,51.5,Yes,Master,No
+S00261,5.4,52.5,70,Yes,Doctorate,Yes
+S00262,9.7,59.5,76.6,No,Master,Yes
+S00263,-6.2,98.7,26.2,Yes,High School,Yes
+S00264,4.9,103.1,81.7,Yes,High School,No
+S00265,8.7,80.2,40.6,No,Bachelor,Yes
+S00266,3.8,85.6,34.2,Yes,Master,Yes
+S00267,18.2,85.1,59.8,No,Associate,No
+S00268,2.8,61.6,49.1,nan,Doctorate,Yes
+S00269,7.8,79.8,71.2,Y,Associate,No
+S00270,10.7,49.1,70.3,Yes,Bachelor,Yes
+S00271,17.2,55.8,69.6,Yes,Bachelor,No
+S00272,2.8,73.3,83.4,Yes,Master,Yes
+S00273,15.8,53.8,60.3,nan,Associate,No
+S00274,10.1,49.5,70.5,Yes,High School,nan
+S00275,,60.8,40,Yes,Master,Yes
+S00276,12.3,97.9,79.4,No,Doctorate,Yes
+S00277,11,106.1,57.5,nan,Associate,Yes
+S00278,7,74.3,60.7,Yes,Master,No
+S00279,10.3,86.6,59.9,No,Doctorate,Yes
+S00280,8.1,63.7,63.5,Yes,Doctorate,No
+S00281,10.6,33.7,59.5,No,nan,No
+S00282,13.3,57.1,32.5,Yes,High School,No
+S00283,17.9,,83.6,No,Bachelor,Yes
+S00284,3.8,77.8,55.2,No,Associate,Yes
+S00285,20.7,73,59.4,Yes,Doctorate,Yes
+S00286,0.2,69.4,62.1,No,High School,Yes
+S00287,9.2,63.5,72.9,nan,nan,No
+S00288,12.9,81.9,57.6,No,Doctorate,Yes
+S00289,11.4,47.7,81,No,High School,No
+S00290,6.9,91,93.1,Yes,nan,Yes
+S00291,9,63.3,89.5,No,Doctorate,Yes
+S00292,7.5,116.3,68.8,Yes,Associate,No
+S00293,7.1,68.7,56.4,Yes,Associate,No
+S00294,14.2,65.4,56,Yes,Bachelor,No
+S00295,11.8,63.7,59.5,No,Bachelor,Yes
+S00296,6.5,65.6,52.2,Yes,High School,Yes
+S00297,14.5,87.1,71.2,No,High School,No
+S00298,11.5,74.2,,No,Doctorate,No
+S00299,14.1,94.7,64.8,Yes,Associate,Yes
+S00300,13.1,84.3,60.4,Yes,Associate,No
+S00301,5.9,75.6,,No,High School,Yes
+S00302,7.2,82.5,68.8,Yes,Doctorate,No
+S00303,13.7,98.9,59.7,Yes,High School,Yes
+S00304,13.1,88.1,62.8,nan,Bachelor,Yes
+S00305,9.9,80.6,62.8,No,Bachelor,No
+S00306,10.6,83.5,75.1,Yes,Master,Yes
+S00307,16.4,51.9,53.3,No,High School,No
+S00308,7,126.4,58,Yes,Doctorate,Yes
+S00309,12.7,85.6,36.5,No,Associate,Yes
+S00310,9,87.6,48.9,Yes,Master,No
+S00311,8.9,,61.5,Yes,Master,nan
+S00312,15.5,29,58.4,No,Associate,Yes
+S00313,14.1,69.7,35.6,No,Bachelor,No
+S00314,14.1,76.5,72.9,Yes,Doctorate,Yes
+S00315,16.5,58.5,51.8,Yes,Bachelor,No
+S00316,10.1,,40.7,Yes,Associate,No
+S00317,13.4,68.2,70.5,No,Master,No
+S00318,8.4,90.4,77.5,No,Master,No
+S00319,11.6,100.1,200,Yes,Bachelor,Yes
+S00320,9.3,78.4,75.2,Yes,nan,No
+S00321,10.5,63.7,61.8,Yes,Doctorate,Yes
+S00322,13,67.8,61.2,nan,Bachelor,No
+S00323,5.9,77,48.2,Yes,High School,Yes
+S00324,20.5,79.4,62.7,Yes,Doctorate,No
+S00325,,83.7,63.6,No,Master,nan
+S00326,3.9,66.2,98.8,Yes,Master,Yes
+S00327,15.8,85.6,72.8,No,Master,No
+S00328,14,84,,No,High School,No
+S00329,13.1,67.1,82.7,Yes,High School,Yes
+S00330,13.1,40.6,78.3,Yes,Associate,Yes
+S00331,9.9,57.3,43.2,No,Associate,Yes
+S00332,5.5,106.4,74.9,Yes,Bachelor,Yes
+S00333,10.4,41.1,66.5,Yes,High School,Yes
+S00334,6.6,101.4,54.5,No,Associate,No
+S00335,14.9,40.4,49.5,No,Master,Yes
+S00336,9.3,59.5,62.8,Yes,Associate,Yes
+S00337,5.9,67.5,64.8,Yes,Associate,Yes
+S00338,8.4,110.6,82.2,Yes,High School,No
+S00339,12.1,75.5,31.2,Yes,Doctorate,No
+S00340,7.2,70.7,46.1,Yes,Doctorate,Yes
+S00341,5.9,56.3,67.9,No,Associate,Yes
+S00342,11.2,85.4,62.9,No,Bachelor,No
+S00343,11.2,64.7,66.7,nan,Associate,Yes
+S00344,7.5,70.4,58.1,Yes,Master,No
+S00345,7.6,67.8,68.7,nan,Master,Yes
+S00346,11.2,89.4,41.2,Yes,Associate,Yes
+S00347,2.8,90.2,96.5,No,Bachelor,No
+S00348,3,57.2,71.3,No,Master,No
+S00349,,62.5,71.9,No,Bachelor,No
+S00350,8.9,60.5,49,No,Master,No
+S00351,11.6,78.7,,Yes,High School,No
+S00352,17.4,93.1,72.7,No,Associate,No
+S00353,14.3,78.9,59.7,Yes,Bachelor,No
+S00354,9.2,31.2,69,Yes,Bachelor,No
+S00355,9.9,,53.3,Yes,Bachelor,Yes
+S00356,5,48,44.9,Yes,Associate,Yes
+S00357,9.9,60.7,81.7,Yes,High School,Yes
+S00358,8.6,79,51.6,No,nan,No
+S00359,11.6,73.3,78.6,Yes,Master,N
+S00360,5.9,92.5,52.4,No,Doctorate,Yes
+S00361,12.6,62.8,,No,Bachelor,Yes
+S00362,17.7,55.7,59.2,Yes,Doctorate,No
+S00363,9.5,68.8,61.8,No,High School,No
+S00364,12,94.5,76.4,Yes,Master,Yes
+S00365,13.5,87.6,89.5,Yes,Associate,No
+S00366,,76.7,62.1,No,Master,No
+S00367,-1,101.5,66.8,No,nan,No
+S00368,10.1,97.9,61,Yes,Doctorate,No
+S00369,10.5,90.8,66.3,Yes,Master,Yes
+S00370,,51.4,54.2,No,Master,No
+S00371,10.1,90.7,49.5,No,Doctorate,Yes
+S00372,12.5,71,69.9,nan,High School,Yes
+S00373,17.3,,68.3,Yes,Bachelor,Yes
+S00374,14.8,,82,No,Associate,Yes
+S00375,20.8,71.6,65.7,No,Bachelor,Yes
+S00376,6.2,62.5,64.3,No,High School,Yes
+S00377,14.4,78.4,72.8,No,Associate,No
+S00378,10.9,71.5,200,Yes,nan,Yes
+S00379,20.9,79.4,62.6,No,Doctorate,No
+S00380,6,86.1,26.4,Yes,Associate,No
+S00381,5.8,69.1,49.2,No,Associate,No
+S00382,7,60.3,81.1,Yes,High School,No
+S00383,-0.6,34.9,,Yes,Master,Yes
+S00384,7.4,90.4,85,No,Associate,Yes
+S00385,6.2,76.6,58.4,Yes,Associate,No
+S00386,10.8,71.5,60.1,No,Doctorate,No
+S00387,11.7,98.4,76.1,No,Bachelor,Yes
+S00388,19.4,49.2,74,Yes,Doctorate,No
+S00389,,76.1,,Yes,Bachelor,Yes
+S00390,7.1,55.7,65.6,Yes,Bachelor,Yes
+S00391,5.5,88.1,64.2,No,Associate,No
+S00392,12.5,30.5,47.7,Yes,High School,No
+S00393,3.4,91.1,56,No,Bachelor,No
+S00394,19.2,90.3,69,Yes,Master,Yes
+S00395,15.9,56.5,61.7,No,High School,No
+S00396,7.7,76.3,79,No,High School,No
+S00397,,57,91.4,Yes,Master,No
+S00398,16.8,83.6,79.2,Yes,Bachelor,Yes
+S00399,,91.4,71.7,Yes,Bachelor,nan
+S00400,16.2,54.9,62.8,Yes,Doctorate,nan
+S00401,2,49.1,76.9,No,Doctorate,nan
+S00402,7,96.9,55.7,Yes,Bachelor,No
+S00403,,113.8,56.8,Yes,Associate,No
+S00404,10.2,84.9,46.5,No,Doctorate,No
+S00405,7.7,86.4,41.7,Yes,Associate,No
+S00406,13.1,,84.2,No,nan,Yes
+S00407,4.7,78.6,69,Yes,Master,No
+S00408,9.3,82,73,No,Associate,No
+S00409,10.6,71.3,63.1,Yes,Doctorate,No
+S00410,12.6,,93.3,No,Associate,Yes
+S00411,13.6,78.5,91.4,No,nan,Yes
+S00412,4.4,81.1,64.7,Yes,Master,Yes
+S00413,2.3,71.8,64.6,No,Doctorate,No
+S00414,,73.8,61.7,Yes,Doctorate,Yes
+S00415,11.7,,48.3,Yes,Bachelor,Yes
+S00416,6.3,77.9,58.9,No,Bachelor,No
+S00417,17.8,78.4,60.3,Yes,High School,Yes
+S00418,10.6,78.6,31.7,Yes,Bachelor,No
+S00419,15.9,67.7,30.8,Yes,Bachelor,No
+S00420,10.3,46.8,64,No,Bachelor,Yes
+S00421,20.3,106.5,77.5,No,Bachelor,Yes
+S00422,18.8,,53.4,No,nan,Yes
+S00423,8.8,100,91.2,Yes,Bachelor,No
+S00424,14.9,53.5,60.8,No,Bachelor,Yes
+S00425,13.2,103.9,52.3,Yes,High School,No
+S00426,16.8,114.3,43.6,Yes,Doctorate,Yes
+S00427,5.2,95.9,66.5,No,Associate,No
+S00428,,108,34.8,Yes,Associate,Yes
+S00429,,91,53.8,No,nan,Yes
+S00430,1.2,58.1,65.7,No,High School,No
+S00431,4.1,,44,No,Associate,Yes
+S00432,-0.2,,57.2,No,Doctorate,No
+S00433,8.7,63.1,65.4,Yes,Master,Yes
+S00434,13.6,81.3,46.7,No,Associate,Yes
+S00435,17.5,78.6,74.8,Yes,Bachelor,nan
+S00436,,84.3,79.1,Yes,Master,Yes
+S00437,18.1,39.2,,nan,High School,Yes
+S00438,3.1,,62,Yes,Associate,nan
+S00439,1.5,86,63.1,Yes,High School,Yes
+S00440,9.7,90,70.2,Yes,Bachelor,No
+S00441,11.9,91.3,60.5,Yes,Bachelor,Yes
+S00442,9.8,80,54.2,Yes,High School,Yes
+S00443,-0.3,67.4,49.1,No,Bachelor,No
+S00444,9.6,85,,No,Bachelor,Yes
+S00445,3.5,69,56.3,Yes,Master,No
+S00446,13.3,93,,No,nan,No
+S00447,11.8,83.5,80.7,Yes,Doctorate,Yes
+S00448,5.3,73.8,67.2,No,Associate,No
+S00449,7.4,59.6,49.7,No,nan,No
+S00450,4.7,97.4,,Yes,High School,nan
+S00451,9.7,86.2,50.5,Yes,Bachelor,No
+S00452,14.8,117.1,,Yes,High School,No
+S00453,-1,85.5,56.8,No,Associate,Yes
+S00454,12.5,87.2,61.9,No,High School,No
+S00455,7.3,45.7,55.7,No,Associate,Yes
+S00456,6,81.2,,Yes,Bachelor,Yes
+S00457,9.5,68.7,74.8,No,Master,Yes
+S00458,4.8,91.5,54.4,No,Doctorate,Yes
+S00459,7.2,81.7,62.4,No,Master,No
+S00460,4,94.7,57.9,No,Associate,Yes
+S00461,19.8,117.7,50.2,Yes,Master,Yes
+S00462,10.2,59,67.4,No,Doctorate,No
+S00463,6.5,93.9,36.8,No,Associate,No
+S00464,11.1,88.7,50.6,Yes,High School,Yes
+S00465,9.4,114.6,,No,Doctorate,No
+S00466,8.9,89.1,51.4,Yes,Doctorate,No
+S00467,13.1,87,48.7,No,High School,No
+S00468,13.8,92,,Yes,nan,No
+S00469,7.3,93.4,60.6,Y,High School,Yes
+S00470,7.1,104.1,59.4,No,Associate,Yes
+S00471,8.6,58.6,64.8,No,Master,No
+S00472,-1.5,67.2,68.5,No,Bachelor,No
+S00473,2.4,109.7,71.1,Yes,Master,Yes
+S00474,16.8,35.8,52.9,Yes,Master,Yes
+S00475,18.2,73.3,65.9,Yes,Doctorate,No
+S00476,8.8,78,61.1,Yes,High School,No
+S00477,12.9,71.5,63.4,Yes,Associate,Yes
+S00478,11.6,106.6,58.1,No,High School,No
+S00479,25.4,84.5,53,No,High School,Yes
+S00480,15.6,67.3,61.3,nan,Master,Yes
+S00481,9.4,62.3,57.9,Yes,Master,No
+S00482,5.2,80.6,69.5,Yes,Master,Yes
+S00483,2,98.3,79.2,No,High School,Yes
+S00484,11,,50.9,Yes,Bachelor,No
+S00485,,72.3,56.9,Yes,Doctorate,Yes
+S00486,2.9,61.1,99.8,Yes,Bachelor,No
+S00487,6.8,82.5,37.7,No,Associate,No
+S00488,4.6,81.4,40.8,nan,High School,Yes
+S00489,18.4,60.5,80.8,Yes,Master,No
+S00490,14.4,95.5,93.7,No,Associate,Yes
+S00491,10,109.1,86.8,No,Associate,No
+S00492,17.4,76,69.7,No,Doctorate,Yes
+S00493,10.4,81,58.5,Yes,Master,No
+S00494,5.7,52.9,60.9,No,Associate,Yes
+S00495,17.6,89.7,71,Yes,Bachelor,No
+S00496,,84.3,79,Yes,Doctorate,Yes
+S00497,4.8,68.5,73,Yes,Doctorate,Yes
+S00498,9,60.1,34.8,Yes,nan,No
+S00499,5.6,112,47.4,Yes,High School,No
+S00500,3.1,82.7,69.2,Yes,Bachelor,Yes
+S00501,14.6,56.6,44.2,Yes,Doctorate,nan
+S00502,19.5,92.1,,Yes,Master,No
+S00503,3,79.6,78.1,Yes,Master,Yes
+S00504,12.8,76.2,68.9,Yes,Bachelor,Yes
+S00505,6.7,94.6,88.2,Yes,Associate,No
+S00506,7.6,,79.6,nan,Doctorate,No
+S00507,7,,55.7,Yes,Doctorate,Yes
+S00508,5.7,102.6,68.7,Yes,Doctorate,No
+S00509,10.2,72.4,53.1,No,Associate,Yes
+S00510,5.8,66.5,40.8,Yes,Doctorate,Yes
+S00511,11.4,48.2,82.9,No,Master,Yes
+S00512,9.7,78.9,62.1,No,Doctorate,Yes
+S00513,8.8,81.3,85.2,No,High School,No
+S00514,5.5,103.8,66.6,Yes,Associate,No
+S00515,7.1,82.4,69.2,No,Doctorate,Yes
+S00516,13.8,68.9,73.7,Yes,Doctorate,No
+S00517,12.5,83.1,62.2,No,Bachelor,No
+S00518,5.1,97.2,61.4,nan,Doctorate,Yes
+S00519,10.5,92.8,68.6,Yes,Master,No
+S00520,13.8,87.4,83.7,No,Master,Yes
+S00521,1.7,80.5,72.6,Yes,Bachelor,nan
+S00522,12.7,63.4,65.3,Yes,High School,Yes
+S00523,6.7,54.3,58.8,No,High School,No
+S00524,12.9,51.2,63.2,No,High School,Yes
+S00525,6.2,82.9,52,Yes,Bachelor,Yes
+S00526,1,85,50.3,Yes,Bachelor,No
+S00527,1.9,96.9,61.4,No,Master,No
+S00528,10.2,86.2,65.1,Yes,Associate,nan
+S00529,11.3,96,75.9,No,Associate,Yes
+S00530,5.5,72.4,48.1,No,High School,No
+S00531,13.2,90.4,65.2,Yes,Associate,Yes
+S00532,1.7,55,,Yes,Doctorate,No
+S00533,9.7,73.8,50.3,No,High School,Yes
+S00534,3.9,,58.1,No,Master,No
+S00535,6.7,75.6,76.4,No,Associate,No
+S00536,10.2,99.5,64.1,Yes,Bachelor,Yes
+S00537,5.7,76.4,34.7,No,Associate,No
+S00538,8.1,89.4,76.6,Yes,Master,No
+S00539,15,80.5,66.3,Yes,High School,Yes
+S00540,7.1,63.6,,Yes,Master,No
+S00541,,71.3,51.8,No,Doctorate,Yes
+S00542,4.4,98.6,63.1,Yes,High School,No
+S00543,12.6,89.3,69.7,Yes,Master,No
+S00544,17.2,62.6,80.4,No,Associate,Yes
+S00545,-2.4,47.3,51.5,Yes,Doctorate,No
+S00546,6,79.1,58.2,Yes,Doctorate,Yes
+S00547,12.9,63.4,78.3,Yes,Associate,Yes
+S00548,9,71.5,80.7,Yes,High School,Yes
+S00549,11.9,45.9,60.1,Yes,nan,Yes
+S00550,7,,57,No,High School,No
+S00551,10.4,73.1,72.5,No,Bachelor,Yes
+S00552,9.2,76.1,,No,nan,Yes
+S00553,15.8,58.3,64.8,No,Master,No
+S00554,11.3,69.5,64.6,No,Associate,Yes
+S00555,11.7,77.4,58,Yes,Doctorate,nan
+S00556,7.9,62.7,72.1,No,High School,No
+S00557,7.6,70.7,81.4,No,Bachelor,No
+S00558,7.8,102.7,50.4,No,High School,Yes
+S00559,12,40,54.1,No,High School,Yes
+S00560,,78.7,75,Yes,Bachelor,No
+S00561,11.4,59.3,43.2,No,High School,Yes
+S00562,20.4,101.7,57,No,Associate,Yes
+S00563,14.4,71.4,97.5,No,High School,Yes
+S00564,8.4,54.1,,No,Bachelor,No
+S00565,16,,60.7,Yes,High School,Yes
+S00566,8,82,39.1,No,Associate,Yes
+S00567,-0.2,,,No,nan,Yes
+S00568,5,32.8,80.9,Yes,Master,No
+S00569,0.6,51,47.5,N,Doctorate,No
+S00570,8.2,101.1,65.7,No,High School,Yes
+S00571,10.1,44.8,84.1,Yes,High School,No
+S00572,18.4,75.2,57.5,No,High School,Yes
+S00573,11.6,65.3,58.1,Yes,Associate,Yes
+S00574,8.9,62.2,75.4,Yes,Doctorate,Yes
+S00575,14.1,,85.3,No,Bachelor,Yes
+S00576,-1.1,68.3,77.7,No,Master,Yes
+S00577,11.2,,87.1,Yes,Associate,No
+S00578,13.9,101.6,30.4,Yes,Bachelor,Yes
+S00579,2.6,83.5,71.3,No,Master,No
+S00580,15.7,70.3,84.3,No,Doctorate,nan
+S00581,11.7,80.2,71.8,No,Bachelor,No
+S00582,7.9,91.1,62.8,Yes,Doctorate,No
+S00583,13.2,95,46.6,No,High School,nan
+S00584,21.4,82.4,54,No,nan,No
+S00585,10.9,105.6,87.5,Yes,High School,No
+S00586,11.2,62.7,200,Yes,Associate,Yes
+S00587,7.7,97.8,55.5,No,Bachelor,No
+S00588,5.8,89.1,41.7,No,nan,Yes
+S00589,14.2,62.8,72,No,Bachelor,Yes
+S00590,5.7,79.7,52.9,Yes,Doctorate,Yes
+S00591,10.4,81,64.5,Yes,High School,Yes
+S00592,7.6,72.2,90.9,Yes,Master,Yes
+S00593,12.4,71.9,77,No,nan,No
+S00594,,44.5,84.6,No,Bachelor,No
+S00595,15.2,61.2,67.2,No,Bachelor,No
+S00596,7.4,70.2,75.7,nan,Associate,Yes
+S00597,8.7,,84.9,No,Associate,No
+S00598,5.1,57.9,52.6,No,Master,Yes
+S00599,7.8,96.2,64.4,No,High School,N
+S00600,11.9,72.9,54.7,No,Doctorate,No
+S00601,13.8,118.3,55.9,No,Associate,Yes
+S00602,5.4,79.5,62.8,No,High School,No
+S00603,14.3,95.8,50.7,Yes,Bachelor,Yes
+S00604,16.8,70.8,59.4,Yes,Doctorate,No
+S00605,12.1,61.8,75.3,Yes,Doctorate,Yes
+S00606,19.4,80.3,63.6,Yes,nan,No
+S00607,6.1,100.9,53.4,No,Doctorate,Yes
+S00608,3.8,73.2,76.8,No,Associate,No
+S00609,1.1,83.9,51.3,Yes,Associate,nan
+S00610,17.5,80.2,48.4,No,nan,Yes
+S00611,13.3,73,83,Yes,nan,No
+S00612,9.7,74.1,77.7,Yes,High School,No
+S00613,11.4,55,59.9,No,Doctorate,No
+S00614,4.4,74.8,93.4,Yes,Doctorate,No
+S00615,22.2,88.1,56.5,No,nan,Yes
+S00616,10.6,80.9,75.2,No,Master,No
+S00617,10.5,78.7,41.3,Yes,Doctorate,No
+S00618,13.6,89.5,49.8,No,Master,Yes
+S00619,12.4,78.9,,Yes,Bachelor,nan
+S00620,11.1,75.3,86.3,Yes,High School,nan
+S00621,6,89.7,62.7,Yes,Doctorate,No
+S00622,12.4,77.7,99.2,Yes,Doctorate,nan
+S00623,19.4,70.3,84.6,Yes,Master,No
+S00624,16.7,84.4,54.6,Yes,Master,No
+S00625,18,74.3,59.3,No,Bachelor,Yes
+S00626,7.4,69.4,44.2,No,Master,No
+S00627,5.1,78.1,58.4,No,Doctorate,No
+S00628,9.4,78.3,68.6,Yes,Doctorate,Yes
+S00629,10.3,52.9,65.6,No,Master,Yes
+S00630,15.5,81.7,65.5,No,Associate,nan
+S00631,1.5,111.9,80,No,High School,No
+S00632,17.6,55.4,67.5,Yes,Master,No
+S00633,,64.9,75.3,Yes,Doctorate,Yes
+S00634,7.9,130.6,71.7,Yes,Master,nan
+S00635,,58.6,69.3,No,Master,Yes
+S00636,1.7,100.7,78.8,Yes,Master,No
+S00637,14.1,70.4,77,Yes,High School,No
+S00638,10.4,76.2,200,No,Master,Yes
+S00639,3.6,,92.3,Yes,Master,Yes
+S00640,3.5,83.5,66.8,No,Associate,Yes
+S00641,8.3,43.4,50.7,No,nan,Yes
+S00642,18.3,78.7,64,No,Doctorate,Yes
+S00643,,66.9,68.9,Yes,Doctorate,Yes
+S00644,2.5,37.7,73.8,No,Associate,Yes
+S00645,8.8,97.4,79.4,No,Bachelor,nan
+S00646,,32.8,76.5,nan,Associate,No
+S00647,-3.5,118,92.6,No,Doctorate,No
+S00648,9.7,87.3,66.6,Yes,Bachelor,No
+S00649,8.8,47.8,62.6,Yes,Bachelor,Yes
+S00650,13.5,101.8,43,No,High School,No
+S00651,19.2,60,79.5,No,Bachelor,nan
+S00652,15.6,60.9,74.1,No,Associate,Yes
+S00653,,39,56.5,Yes,High School,Yes
+S00654,4.5,57.7,68.6,No,Master,Yes
+S00655,22.9,60.1,64.8,Yes,High School,Yes
+S00656,10.3,91.4,67.6,No,Bachelor,No
+S00657,10.1,98.3,60.9,No,High School,Yes
+S00658,9.9,50.2,66.7,No,Doctorate,No
+S00659,,80.4,42.2,Yes,Master,No
+S00660,9.3,38.2,58.9,No,Master,Yes
+S00661,7.1,80.5,69.6,No,Doctorate,Yes
+S00662,7.3,118.2,,No,nan,Yes
+S00663,9.8,39.4,70.8,No,Associate,Yes
+S00664,7.3,54.7,96,Yes,High School,Yes
+S00665,6.4,89.5,,No,High School,No
+S00666,10.5,91.9,37.5,Yes,Bachelor,Yes
+S00667,8.7,56.2,83.1,No,Associate,No
+S00668,17.5,104.5,96.4,No,Bachelor,Yes
+S00669,-3.3,58.7,70.6,Yes,Associate,Yes
+S00670,15.5,108.5,65.1,No,Master,No
+S00671,16.2,84.4,55.3,Yes,Associate,No
+S00672,-0.4,100.4,73.1,No,Bachelor,Yes
+S00673,8.3,82.4,64.8,No,High School,Yes
+S00674,,88.1,77.7,No,Master,No
+S00675,3,89.2,39.3,No,Doctorate,No
+S00676,6.1,,69.9,Yes,Bachelor,No
+S00677,4.4,,52.5,Yes,Master,Yes
+S00678,18.8,57,79.2,Yes,Master,No
+S00679,14.7,73.4,47.8,No,Associate,Yes
+S00680,16.4,61.7,74.4,Yes,Associate,Yes
+S00681,13.6,63,56.3,Yes,High School,nan
+S00682,4.4,108.1,58.5,No,Master,Yes
+S00683,7.4,87.5,77.7,Yes,Doctorate,Yes
+S00684,12.4,86.5,,No,Associate,Yes
+S00685,3.9,96.5,42.5,Yes,Bachelor,No
+S00686,13.6,87.4,66.1,Yes,High School,No
+S00687,8.8,112.3,55.1,No,Bachelor,No
+S00688,8.1,33.1,44.4,Yes,Doctorate,No
+S00689,13.6,,70.3,No,High School,No
+S00690,12.2,61,69.3,No,Associate,No
+S00691,8.2,47.5,66.8,Yes,High School,No
+S00692,15.8,77.3,72.6,No,High School,Yes
+S00693,4.6,78.2,35.1,Yes,Doctorate,Yes
+S00694,13.1,114.5,53.6,No,Master,Yes
+S00695,13,93.1,69.2,No,Associate,No
+S00696,8.5,64.8,80.5,Yes,Bachelor,No
+S00697,11.6,84.9,68.6,nan,Master,No
+S00698,3.7,,82.5,No,Bachelor,Yes
+S00699,14.6,77.8,54.8,No,High School,Yes
+S00700,9.1,76.8,55.8,No,Doctorate,Yes
+S00701,7.4,57,59.4,No,Bachelor,Yes
+S00702,15.2,71,63.8,Yes,Master,No
+S00703,6.5,61.1,38.4,No,High School,Yes
+S00704,3,56.3,64.7,nan,Doctorate,No
+S00705,2.2,88.5,64.5,Yes,Associate,No
+S00706,13,95.7,55.8,Yes,nan,No
+S00707,3.6,85.2,53.5,No,Associate,Yes
+S00708,18.8,66.2,,No,High School,No
+S00709,-0.4,61.7,73.8,Yes,Bachelor,No
+S00710,18.5,66.9,67.2,No,Doctorate,No
+S00711,11.1,70.6,67.1,No,Master,No
+S00712,9.5,57.6,64.5,No,Master,No
+S00713,7.3,96.1,65.2,Yes,Master,No
+S00714,12,71,75.2,No,High School,No
+S00715,9.8,90.3,89.3,No,High School,Yes
+S00716,15.5,47,87.4,No,Doctorate,Yes
+S00717,10.6,61.2,48.7,No,High School,Yes
+S00718,10.8,92.2,33.3,Yes,Doctorate,Yes
+S00719,8.2,92.5,73,No,Bachelor,Yes
+S00720,9.7,50.9,65.3,Yes,nan,Yes
+S00721,11.5,81.1,64.1,No,Associate,No
+S00722,1.4,81.6,70.7,No,High School,Yes
+S00723,3.3,60.8,61.3,No,Bachelor,Yes
+S00724,13.7,82.1,40.7,Yes,nan,Yes
+S00725,10.9,43.4,47.9,No,Bachelor,Yes
+S00726,9.1,56.5,48.8,nan,High School,Yes
+S00727,10.1,87,75,No,Master,nan
+S00728,11.7,75.6,93.3,Yes,Master,No
+S00729,7.3,76.6,58,Yes,Associate,No
+S00730,6.1,71.5,104,No,High School,Yes
+S00731,11,85.7,36.6,Yes,Associate,No
+S00732,5.1,86.7,57.4,Yes,Associate,No
+S00733,12,90.8,67.7,No,Bachelor,No
+S00734,1.5,77.5,26.7,Yes,Associate,No
+S00735,15.1,67.2,87.8,No,Bachelor,No
+S00736,12.4,63.9,54.6,No,High School,Yes
+S00737,11.3,53.9,65.5,Yes,Doctorate,No
+S00738,14.9,66.9,71.7,No,Associate,No
+S00739,18.3,62.9,41.1,No,Bachelor,No
+S00740,15.1,107,101.5,Yes,Doctorate,No
+S00741,0.8,54.1,67,Yes,Doctorate,Yes
+S00742,3.6,95.7,59.9,Yes,Associate,No
+S00743,6.9,69.6,48.3,No,Master,nan
+S00744,10.1,70.9,68.1,No,Associate,Yes
+S00745,12.6,83,,No,Master,No
+S00746,6.4,,67.1,Yes,Master,Yes
+S00747,10.9,59,86,Yes,Bachelor,Yes
+S00748,6.2,50.2,82.5,Yes,High School,Yes
+S00749,6.9,67.4,56.7,Yes,High School,No
+S00750,3,56.8,60.8,Yes,Bachelor,Yes
+S00751,5.4,101.3,73.1,Yes,Bachelor,Yes
+S00752,3.2,63.3,82.7,No,Master,Yes
+S00753,5.1,27.4,200,Yes,High School,No
+S00754,15.3,68.3,89.4,Yes,Master,No
+S00755,5.3,91.1,51,No,High School,Yes
+S00756,23.2,107.6,76.3,Yes,Associate,No
+S00757,12.5,70.4,44.2,Yes,Associate,No
+S00758,10.9,64.7,58.1,Yes,High School,nan
+S00759,5.7,74.7,47.4,No,Associate,No
+S00760,13.5,83.3,47.7,No,Bachelor,Yes
+S00761,7.1,52.4,68.6,No,Doctorate,Yes
+S00762,10.6,70.1,54.6,No,Doctorate,Yes
+S00763,22.8,74,69.3,Yes,Associate,No
+S00764,,75.9,46.9,Yes,Bachelor,Yes
+S00765,15.7,72.1,72.3,No,Doctorate,No
+S00766,6.5,56.3,58.5,Yes,Bachelor,Yes
+S00767,9.8,81.8,60.6,No,High School,Yes
+S00768,18.9,74.1,45.5,Yes,Master,Yes
+S00769,6.9,74.1,80.3,No,High School,No
+S00770,19.1,53.3,67.1,Yes,Doctorate,Yes
+S00771,13.5,,,Yes,Bachelor,No
+S00772,7.2,,45.9,No,Master,Yes
+S00773,13.2,107.3,75.1,No,Associate,Yes
+S00774,14.9,,65.6,No,Bachelor,Yes
+S00775,13.1,90.2,57.6,No,Bachelor,No
+S00776,2.1,36.8,85.7,No,High School,Yes
+S00777,6.4,29.8,71.1,nan,Doctorate,No
+S00778,8.8,63.9,71.8,Yes,Associate,No
+S00779,9.6,29.8,35.5,Yes,Doctorate,No
+S00780,13.1,89.6,81.2,Yes,Bachelor,No
+S00781,10.9,74.6,71.7,No,Master,No
+S00782,3.3,103,83.6,No,Doctorate,No
+S00783,11.9,71.7,56.1,Yes,Master,Yes
+S00784,,79.9,54.3,No,Associate,Yes
+S00785,12.8,69.6,89.2,No,Associate,Yes
+S00786,15.4,57.5,79.4,No,Master,Yes
+S00787,14.2,66.9,43.6,Yes,High School,No
+S00788,12.3,50.9,65.2,No,Bachelor,Yes
+S00789,9.6,82.7,80.3,No,Master,No
+S00790,1.7,,67.7,Yes,Master,Yes
+S00791,12.1,,56.8,No,High School,Yes
+S00792,11,131.5,55,No,Bachelor,No
+S00793,11.4,66.9,66,Yes,Bachelor,Yes
+S00794,3.6,81.3,80.3,No,Master,No
+S00795,4.6,73.9,50.1,Yes,High School,Yes
+S00796,15.3,98.2,33,No,Master,No
+S00797,9.8,79.8,,No,Doctorate,No
+S00798,13.4,69.6,71.8,Yes,Associate,No
+S00799,10.1,120.9,75.1,Yes,Doctorate,Yes
+S00800,10.1,57.8,49.8,Yes,Associate,No
+S00801,14.7,71.1,69,No,Bachelor,Yes
+S00802,7.4,93.3,55.4,Yes,Bachelor,No
+S00803,10.5,58.6,76,No,Master,Yes
+S00804,7.7,90.3,63,No,Associate,No
+S00805,7.8,65.4,77.6,Yes,Bachelor,nan
+S00806,8.5,95.1,66,No,Doctorate,No
+S00807,11.1,94.5,72.5,Yes,nan,No
+S00808,7.6,73.2,58.4,No,Master,Yes
+S00809,16.3,55,54.3,No,Associate,No
+S00810,5.5,67.2,60.7,Yes,Master,Yes
+S00811,9.1,74.7,74.2,No,Doctorate,Yes
+S00812,7.8,92.8,102.9,Yes,Associate,No
+S00813,17.2,81.4,83.9,No,Bachelor,Yes
+S00814,,85.8,87.8,Yes,Associate,No
+S00815,15.2,82,63.4,Yes,High School,Yes
+S00816,2.6,91.9,,No,Bachelor,No
+S00817,11.3,71,31.9,No,Master,Yes
+S00818,14.4,78.3,56,No,Associate,No
+S00819,10.4,75.6,44.3,Yes,nan,Yes
+S00820,15.3,66.2,76.5,Yes,Master,No
+S00821,7.4,95.2,62,nan,Associate,Yes
+S00822,17,94.8,45.2,No,Master,Yes
+S00823,21.5,99.1,73.2,Yes,Associate,Yes
+S00824,8.2,59.7,69.8,No,High School,No
+S00825,7.8,82,48,No,Master,No
+S00826,17.3,96.8,87.7,No,Doctorate,No
+S00827,17.9,105.1,53.7,Yes,Doctorate,Yes
+S00828,7.4,44.8,73.9,No,nan,Yes
+S00829,7.9,74.9,63.1,Yes,Master,nan
+S00830,8.6,71.2,89.7,Yes,Bachelor,Yes
+S00831,3.3,106.8,78.8,Yes,Doctorate,Yes
+S00832,5.4,30.8,48.5,Yes,Master,Yes
+S00833,5,54.1,92.3,No,Master,No
+S00834,6.2,,46,nan,Bachelor,Yes
+S00835,9.8,65.6,49.1,Yes,Doctorate,Yes
+S00836,11.2,49,89.4,Yes,Doctorate,No
+S00837,17.8,105.2,64.6,Yes,Bachelor,No
+S00838,5,46.4,69.7,Yes,Bachelor,nan
+S00839,14.9,95.4,71.3,Yes,Master,No
+S00840,8.9,43.8,48.8,No,Associate,Yes
+S00841,9.8,46.1,93.2,No,Associate,No
+S00842,13.4,79,,No,Bachelor,No
+S00843,4.4,58,37,Yes,Bachelor,No
+S00844,11.9,80.4,58.3,Yes,Master,No
+S00845,10.8,111,75.2,No,Master,Yes
+S00846,12.5,71.9,63.3,No,Bachelor,No
+S00847,11.4,107.6,56.9,Yes,Bachelor,Yes
+S00848,22.3,81.5,73.4,Yes,Doctorate,No
+S00849,6.8,94.1,74.9,No,Associate,Yes
+S00850,7.3,27.9,90.4,No,Associate,No
+S00851,6.9,87.7,39,No,Bachelor,No
+S00852,7.2,84.7,49.9,No,Doctorate,Yes
+S00853,6.8,67.8,53.7,No,Bachelor,Yes
+S00854,15.9,112.9,101,No,High School,Yes
+S00855,17.1,65.1,87.6,Yes,Associate,Yes
+S00856,7.1,42.8,69.1,Yes,Associate,Yes
+S00857,5.8,90.6,63.7,Yes,Doctorate,Yes
+S00858,12.4,46.5,71.6,No,Associate,nan
+S00859,7.2,76.5,82.6,No,Master,No
+S00860,13.2,101.8,61.2,No,Doctorate,No
+S00861,11,85,69.1,No,Master,Yes
+S00862,2.4,70.1,59.9,No,High School,Yes
+S00863,,68,44.1,Yes,Doctorate,No
+S00864,19,100.3,38.2,No,Bachelor,Yes
+S00865,6.9,50.6,54.6,Yes,Bachelor,Yes
+S00866,,90.5,,No,High School,Yes
+S00867,11.4,118.9,71.5,No,High School,Yes
+S00868,11.7,,69,No,Bachelor,Yes
+S00869,13.3,70.2,44.1,nan,Bachelor,Yes
+S00870,20.1,71.8,65.1,No,Master,No
+S00871,9.1,65.4,56.8,Yes,Bachelor,Yes
+S00872,6,62,61.3,No,Bachelor,No
+S00873,3.1,77.4,66.2,No,Doctorate,No
+S00874,6.3,88.6,84.2,nan,Doctorate,Yes
+S00875,9.8,107.2,58.1,No,Doctorate,No
+S00876,19,35.9,90.2,nan,Doctorate,Yes
+S00877,7.4,26.2,45.5,Yes,High School,Yes
+S00878,11.1,107.6,51.8,No,Doctorate,Yes
+S00879,9.9,76.1,63.6,No,High School,Yes
+S00880,,77.2,47.5,No,High School,Yes
+S00881,22.6,85,45.2,Yes,Associate,No
+S00882,7.3,71.3,66.1,No,High School,Yes
+S00883,7.6,114.5,45.1,nan,High School,No
+S00884,15.2,84.8,50.6,No,nan,No
+S00885,13.4,66,,No,Bachelor,No
+S00886,19.2,67.8,90.5,Yes,Bachelor,No
+S00887,12.9,,62.1,No,Doctorate,No
+S00888,8.2,59.5,,nan,Master,Yes
+S00889,13,,47.8,Yes,nan,No
+S00890,15.5,,,No,Bachelor,No
+S00891,14.1,51.6,30.6,No,High School,Yes
+S00892,12.5,83.1,50.2,Yes,Master,No
+S00893,15.3,103.8,76.5,Yes,Doctorate,nan
+S00894,15.8,96.2,56.4,nan,Associate,No
+S00895,16.9,59.8,67.3,Yes,Associate,Yes
+S00896,13.2,52.8,68.3,No,Doctorate,No
+S00897,9.2,103.5,76,Yes,Doctorate,Yes
+S00898,10.7,42.5,89.9,No,Bachelor,Yes
+S00899,16,82.4,74.1,Yes,Master,No
+S00900,5.9,63.6,61.4,No,High School,Yes
+S00901,11.8,101.3,77,Yes,Doctorate,Yes
+S00902,8,53.9,69.6,Yes,High School,nan
+S00903,10.1,59.1,31.4,No,Bachelor,Yes
+S00904,16.4,87.3,47,Yes,Bachelor,No
+S00905,11,90.9,61.6,No,Doctorate,Yes
+S00906,10.2,,56.2,No,Master,No
+S00907,3.2,84.5,63.2,No,Doctorate,Yes
+S00908,13.7,82,28.6,Yes,Doctorate,No
+S00909,13.2,96,77.6,Yes,Master,Yes
+S00910,20.8,47.6,64.2,No,nan,nan
+S00911,8.5,57.4,83.2,Yes,Bachelor,Yes
+S00912,11.1,49.3,65.4,No,High School,No
+S00913,,21.3,68,No,Bachelor,Yes
+S00914,,91.8,49.5,Yes,Bachelor,No
+S00915,9.5,103.6,46.9,Yes,Doctorate,Yes
+S00916,11.4,86.1,67,No,Doctorate,Yes
+S00917,13,82.6,65,Yes,Bachelor,Yes
+S00918,10.9,76.7,40.4,Yes,Bachelor,Yes
+S00919,7.8,76.1,79.1,No,High School,No
+S00920,,108.9,65.7,No,Master,No
+S00921,15.4,106,57.4,No,Bachelor,Yes
+S00922,4.9,63.3,52,Yes,Bachelor,No
+S00923,10.7,97.2,76.3,No,Bachelor,Yes
+S00924,6.5,99.6,54.6,Yes,Bachelor,Yes
+S00925,16,88,,No,Doctorate,Yes
+S00926,2.4,82.8,62.5,Yes,Associate,nan
+S00927,7.2,82.1,57,Yes,Associate,nan
+S00928,11.9,45.4,45.5,Yes,Associate,No
+S00929,17.8,43.6,84.5,No,Associate,No
+S00930,9.7,90.7,49.9,Yes,nan,No
+S00931,7.2,53,52.1,Yes,Associate,No
+S00932,19.4,47.2,85.1,No,Doctorate,Yes
+S00933,2.8,33.5,63.5,No,High School,Yes
+S00934,-1,65.5,69.8,Yes,Doctorate,Yes
+S00935,12.2,82.5,87.7,Yes,Master,No
+S00936,7.5,84.1,87.3,Yes,Master,No
+S00937,4.9,92,56.8,Yes,Bachelor,No
+S00938,13.5,67.2,82.3,nan,Bachelor,nan
+S00939,,,40.9,No,Bachelor,Yes
+S00940,7.2,91.9,38.6,No,Bachelor,Yes
+S00941,3.6,84.3,65.7,No,Bachelor,Yes
+S00942,14.4,63.3,63.7,Yes,Bachelor,Yes
+S00943,13.3,81,74.7,No,Master,No
+S00944,9.5,35.3,73.1,No,High School,Yes
+S00945,19.2,75,75.4,Yes,Doctorate,No
+S00946,,62.6,,Yes,Associate,No
+S00947,2.4,105.4,94.4,No,High School,No
+S00948,6.5,55.5,78.2,Yes,Master,No
+S00949,,77.3,64.7,Yes,Master,Yes
+S00950,11.2,66.4,61.9,No,High School,No
+S00951,8.8,63.8,64.8,No,Associate,Yes
+S00952,11.8,82.5,56.4,No,Bachelor,No
+S00953,3.7,66.6,78.9,Yes,High School,No
+S00954,17.2,,80.6,No,Doctorate,No
+S00955,9.6,35.5,55.5,Yes,Bachelor,nan
+S00956,15.6,87.6,62.5,No,High School,Yes
+S00957,11.7,73.3,38.5,No,Bachelor,Yes
+S00958,12.3,74,,Yes,Doctorate,No
+S00959,12.8,81,65.6,No,nan,Yes
+S00960,12.2,95,,Yes,nan,No
+S00961,13.2,80.3,57.1,Yes,Doctorate,Yes
+S00962,16.6,95,47.7,Yes,Bachelor,No
+S00963,11,75.9,41.4,Yes,Associate,No
+S00964,13.5,54.3,87.2,No,Doctorate,Yes
+S00965,9.6,73.2,,No,Master,Yes
+S00966,17.2,,66.7,Yes,Master,No
+S00967,6.6,66.8,79.6,No,Associate,No
+S00968,19,53.3,86.3,Yes,Bachelor,No
+S00969,9.8,87.4,49.1,No,Associate,No
+S00970,2.8,81.7,84.2,Yes,High School,Yes
+S00971,10.6,59.6,67.4,No,Associate,Yes
+S00972,6.6,,73.6,Yes,Doctorate,Yes
+S00973,14.2,71.4,91.4,No,Doctorate,Yes
+S00974,6.7,75.1,74.2,Yes,Associate,nan
+S00975,7.8,87.9,51.1,No,Doctorate,Yes
+S00976,0.6,66.9,34.2,No,High School,Yes
+S00977,7.7,89,74.6,Yes,Doctorate,Yes
+S00978,-2.1,64.3,71.1,Yes,Doctorate,No
+S00979,2.1,108.3,53.1,No,Bachelor,No
+S00980,13.8,108.8,67.8,nan,Doctorate,nan
+S00981,13.9,57.9,,No,Associate,No
+S00982,12.1,50.5,,Yes,Associate,Yes
+S00983,5.2,94.6,44.9,nan,Bachelor,Yes
+S00984,9.8,80.2,83.1,No,Master,No
+S00985,10,86,96.5,No,High School,nan
+S00986,4.2,61.9,69.3,No,High School,Yes
+S00987,,72.4,70.8,Yes,Master,Yes
+S00988,14.4,68.1,73.8,No,Doctorate,Yes
+S00989,8.9,81.1,69.2,Yes,Associate,No
+S00990,10.1,50.1,48.6,Yes,Doctorate,No
+S00991,11,73,86.2,No,Bachelor,No
+S00992,-0.2,49.9,71.8,No,High School,Yes
+S00993,8.8,64.7,73.4,Yes,Master,No
+S00994,6.6,73.1,80.1,Yes,Associate,Yes
+S00995,5,85.1,79.5,No,Doctorate,nan
+S00996,8.6,86.8,83.5,Yes,Master,Yes
+S00997,19,90.2,71.8,Yes,Master,Yes
+S00998,13.2,45.3,52.1,Yes,Doctorate,Yes
+S00999,7.1,100.3,71.3,nan,Doctorate,No
+S01000,12.9,62.1,64.6,No,Associate,No
+S01001,17,63.6,51.9,Yes,Associate,Yes
+S01002,14.6,80.4,86.8,No,Doctorate,nan
+S01003,10.3,68.3,62.7,Yes,Associate,No
+S01004,6.8,82.2,68.4,No,Associate,No
+S01005,13.5,85.9,54.1,Yes,High School,Yes
+S01006,12,59.7,64.2,Yes,Associate,No
+S01007,,71.3,79,Yes,nan,Yes
+S01008,13.2,71.9,95.7,Yes,Associate,Yes
+S01009,15.2,94.2,43.1,Yes,nan,Yes
+S01010,7.3,65.7,65.3,No,Doctorate,Yes
+S01011,16.6,64.8,18,Yes,High School,Yes
+S01012,11,54.6,58.6,Yes,Doctorate,No
+S01013,20.4,56.8,66.8,No,Bachelor,No
+S01014,6.6,48,67.4,No,Master,No
+S01015,18.7,60.9,89.6,Yes,Bachelor,No
+S01016,11,,61.6,No,Bachelor,Yes
+S01017,6.7,88.8,88.4,No,Associate,No
+S01018,7.6,100.5,68.7,No,High School,Yes
+S01019,8.4,56,57.3,Yes,High School,Yes
+S01020,12.1,36,67.9,Yes,High School,No
+S01021,12.6,81.3,66.9,Yes,High School,Yes
+S01022,7.1,112.1,68,nan,Associate,Yes
+S01023,9.9,,54.5,No,nan,Yes
+S01024,20.7,77,54.4,Yes,Associate,No
+S01025,18.6,43.6,82,No,Bachelor,No
+S01026,12.2,75.6,80.8,No,Doctorate,Yes
+S01027,10.2,72.5,52.6,No,Bachelor,No
+S01028,,33.1,63,Yes,High School,Yes
+S01029,13.1,54.3,70.7,Yes,Doctorate,Yes
+S01030,4.9,52.7,,Yes,Bachelor,Yes
+S01031,8.7,43.4,67.8,No,Bachelor,No
+S01032,1.7,60.5,82.3,Yes,Associate,No
+S01033,12,85.2,63.8,No,Associate,No
+S01034,13.2,62.3,88.2,Yes,Bachelor,Yes
+S01035,7.6,98,103.3,Yes,Doctorate,Yes
+S01036,17.9,67.7,66.1,Yes,Doctorate,No
+S01037,3.9,,70.6,Yes,Doctorate,No
+S01038,2.7,84.9,50.9,No,Associate,Yes
+S01039,11.1,105.7,62.4,No,High School,Yes
+S01040,15.2,60.7,67.7,Yes,High School,No
+S01041,18.4,83.8,75.5,No,Master,No
+S01042,7.7,56.1,61.9,No,Associate,Yes
+S01043,15.4,109.4,76.2,No,Bachelor,Yes
+S01044,9.8,54.2,,No,High School,No
+S01045,9.1,82.7,80.1,Yes,Bachelor,Yes
+S01046,14.4,106.2,71.2,nan,Bachelor,Yes
+S01047,13.3,51.1,70.5,No,Doctorate,Yes
+S01048,2.1,86.9,58.1,Yes,High School,Yes
+S01049,17.4,55.1,63.7,No,Master,No
+S01050,16.9,121.6,59.4,Yes,Associate,No
+S01051,6.9,37.2,78,No,Doctorate,Yes
+S01052,12,44.7,44.7,No,Associate,No
+S01053,12.5,,54.4,No,Bachelor,No
+S01054,,53.2,83.1,No,Bachelor,No
+S01055,,85.4,67.8,Yes,Associate,No
+S01056,6.6,111,83.3,No,Bachelor,Yes
+S01057,9.9,98.1,,Yes,Bachelor,nan
+S01058,15.9,79.7,79,No,Doctorate,Yes
+S01059,12.7,75.2,71.3,Yes,Associate,Yes
+S01060,8.1,62.9,55.1,Yes,Associate,Yes
+S01061,13.9,82.8,66.1,Yes,Master,Yes
+S01062,-4.2,70.8,46.3,No,Master,No
+S01063,15.7,78.8,62.5,No,Doctorate,Yes
+S01064,1.3,60.2,56.8,No,Bachelor,No
+S01065,8.2,51,37.1,Yes,Associate,No
+S01066,4.4,75.5,71.4,Yes,Associate,Yes
+S01067,3.5,75.1,69.9,Yes,High School,Yes
+S01068,15.8,63.1,83.9,Yes,Doctorate,Yes
+S01069,7.7,,46.6,Yes,nan,Yes
+S01070,11.7,86.2,81.2,Yes,Master,Yes
+S01071,9.8,84.1,30.2,No,High School,No
+S01072,12.4,112.5,62.8,No,Doctorate,No
+S01073,10.4,102.6,94.6,Yes,Bachelor,Yes
+S01074,3.6,51.1,64.6,Yes,Bachelor,Yes
+S01075,,71.2,54,Yes,High School,No
+S01076,7.5,47.7,63.7,No,Master,Yes
+S01077,2.2,38.2,77.7,Yes,High School,No
+S01078,7.9,118.9,60.8,No,Doctorate,No
+S01079,17.5,104.6,,No,Associate,Yes
+S01080,14.3,62.4,70.7,No,Master,Yes
+S01081,8.3,99.9,73.2,nan,High School,Yes
+S01082,8.3,102.8,80.5,nan,Associate,No
+S01083,8.4,36.6,94.7,Yes,Bachelor,Yes
+S01084,20.4,,,Yes,Doctorate,No
+S01085,11.9,65.2,69.8,No,Associate,Yes
+S01086,12.2,82.7,47.2,Yes,Associate,Yes
+S01087,15.2,135.2,79.2,No,Bachelor,Yes
+S01088,11.2,106.7,85.4,Yes,Master,No
+S01089,8.7,72.4,75.3,nan,Master,No
+S01090,9,103.4,44.2,No,Associate,No
+S01091,9.6,36.6,58.9,No,Master,No
+S01092,9.8,85.1,65.8,No,Master,No
+S01093,13.6,85.5,52.1,No,High School,No
+S01094,,,97.2,Yes,Master,nan
+S01095,13.7,64.8,71.1,No,Associate,No
+S01096,9.6,82.6,79,Yes,nan,Yes
+S01097,10.4,92.1,79.2,No,Doctorate,Yes
+S01098,0,28.5,66.7,No,High School,Yes
+S01099,,68.7,47,Yes,Bachelor,No
+S01100,11.7,56.9,76.8,No,High School,No
+S01101,15,88.2,95.2,No,High School,Yes
+S01102,,102.6,59.3,No,Bachelor,No
+S01103,20.4,62.8,56.5,No,Doctorate,Yes
+S01104,9.3,53.2,77.6,Yes,High School,Yes
+S01105,,,78.9,No,Master,No
+S01106,4.8,51.9,82.2,nan,High School,nan
+S01107,13.1,70.5,62.9,No,High School,No
+S01108,4.7,68.4,62.8,Yes,High School,Yes
+S01109,6.9,86.6,25.6,No,nan,No
+S01110,19.6,81.3,65.8,Yes,High School,No
+S01111,9,78.2,56.5,Yes,High School,nan
+S01112,11.1,107.7,31.9,No,Bachelor,Yes
+S01113,14.4,150,93.4,Yes,nan,Yes
+S01114,12.5,66.6,68.6,Yes,Bachelor,Yes
+S01115,10.8,69.1,38.2,Yes,Bachelor,No
+S01116,11.8,59.7,70.6,Yes,Doctorate,Yes
+S01117,22,,92.9,No,Master,No
+S01118,9.7,47.2,83.1,No,Bachelor,No
+S01119,11,97.7,79.5,Yes,Master,No
+S01120,15.3,60.6,46.5,No,Bachelor,No
+S01121,15.5,81.3,56.8,nan,Master,Yes
+S01122,15.9,69,52,Yes,Master,Yes
+S01123,13.2,74.4,65.3,No,High School,No
+S01124,4.3,98.1,76.6,No,Associate,No
+S01125,18.2,78.5,71.6,No,Doctorate,No
+S01126,4.3,56.5,51.4,Yes,High School,Yes
+S01127,11.5,63.7,62.2,nan,Associate,No
+S01128,6.2,92.2,80.7,No,Doctorate,Yes
+S01129,9.7,84.7,72.7,Yes,Associate,Yes
+S01130,11.6,93.4,71,No,Bachelor,Yes
+S01131,11.6,70.2,51.8,Yes,High School,Yes
+S01132,12.1,47.1,67.4,Yes,nan,Yes
+S01133,18.1,85.1,48,Yes,Doctorate,No
+S01134,12.3,80.1,52.6,Yes,High School,No
+S01135,8.8,80.6,42.8,Yes,Associate,No
+S01136,14.8,47.4,90.9,No,Bachelor,No
+S01137,15.9,62.2,91.5,Yes,Associate,No
+S01138,3.9,56.2,49.9,nan,High School,No
+S01139,13,,,No,Associate,No
+S01140,13.5,83.7,60.2,No,Doctorate,Yes
+S01141,8.5,74.1,83.3,Yes,Associate,Yes
+S01142,16.9,94.4,74.1,No,Master,Yes
+S01143,,104.8,85.7,Yes,Bachelor,Yes
+S01144,10.6,82.1,90.3,No,Associate,No
+S01145,9.1,88.4,72.3,Yes,Associate,No
+S01146,10.1,64.2,69.5,No,Doctorate,No
+S01147,4.5,60.5,85.4,No,High School,Yes
+S01148,2.8,95.2,81.2,No,Doctorate,nan
+S01149,18,57.5,81.1,No,Associate,No
+S01150,5.8,88.9,72.1,Yes,Bachelor,No
+S01151,5,109.4,80.6,No,Master,No
+S01152,-0.8,88.1,60.5,Yes,High School,Yes
+S01153,6.8,,56.5,No,Master,Yes
+S01154,3.4,48.2,59.9,No,nan,No
+S01155,18.2,78.3,99.1,No,Master,No
+S01156,15,95.2,49.3,No,Master,No
+S01157,6.6,71.4,79.1,Yes,Bachelor,No
+S01158,21.3,95.4,94.7,No,Associate,No
+S01159,14.9,82.3,71,No,Master,Yes
+S01160,8.4,80.8,60.2,No,High School,Yes
+S01161,-2.5,68.7,73.3,No,Bachelor,No
+S01162,21.5,45.9,57.6,Yes,High School,Yes
+S01163,3.1,66.5,51.4,No,Bachelor,Yes
+S01164,-1,66.3,85.2,Yes,High School,nan
+S01165,15.1,,84.2,Yes,Associate,Yes
+S01166,22.2,74.7,60.2,No,Associate,No
+S01167,16.9,96.7,57.7,Yes,Master,Yes
+S01168,12.8,80.6,68.2,Yes,Bachelor,No
+S01169,13,64.9,63.6,No,High School,No
+S01170,14.3,58.7,52.7,No,Bachelor,No
+S01171,13.8,62.9,42.1,Yes,High School,No
+S01172,11.4,78.2,43.1,Yes,Master,No
+S01173,10.5,67.5,47,Yes,Associate,Yes
+S01174,9.7,53.5,49.4,No,Doctorate,Yes
+S01175,6.2,95.1,68.2,nan,Master,Yes
+S01176,8.6,78,52.9,No,Master,No
+S01177,1.5,80.5,53.3,No,Bachelor,Yes
+S01178,9.5,58.5,46.2,Yes,High School,No
+S01179,5.1,54.2,46.5,No,Bachelor,nan
+S01180,4.5,71.8,46.1,No,Associate,No
+S01181,10.9,34.4,63.8,No,High School,Yes
+S01182,17,90.6,80.6,No,Associate,No
+S01183,14.6,60.9,87.5,No,nan,Yes
+S01184,2.1,69.6,65.8,No,Bachelor,No
+S01185,5.1,83.5,80.9,No,Master,nan
+S01186,14.7,70.5,53.3,No,Master,No
+S01187,5.1,51.6,,No,Bachelor,Yes
+S01188,8.9,105.1,51.9,Yes,Bachelor,Yes
+S01189,12.8,44.3,71.5,No,Associate,Yes
+S01190,5.2,30.3,52.7,No,Master,nan
+S01191,10.5,92.5,53.9,No,Associate,No
+S01192,3.3,45.8,64.2,Yes,Master,No
+S01193,7,100.1,,nan,Master,No
+S01194,11.6,82.5,77.8,Yes,Associate,Yes
+S01195,2,80.7,54.1,Yes,Master,No
+S01196,,63.6,49.2,Yes,Master,nan
+S01197,9.9,58.5,52.7,Yes,Associate,No
+S01198,12.8,67.5,74.7,nan,Associate,No
+S01199,11.1,57.5,68.3,Yes,Master,Yes
+S01200,16.8,99.2,74.8,Yes,Doctorate,No
+S01201,,60.1,57.3,No,High School,No
+S01202,7.9,85.1,70,Yes,High School,No
+S01203,10.6,,,No,Associate,No
+S01204,12.7,57.4,84,No,Bachelor,No
+S01205,10.2,82.5,88.7,No,Associate,nan
+S01206,10.2,57.1,78.6,No,High School,Yes
+S01207,6.5,71.5,84,No,High School,No
+S01208,,65.8,64.7,No,Bachelor,No
+S01209,3,150,54.5,No,Master,Yes
+S01210,18.7,78.2,,Yes,Bachelor,No
+S01211,3.8,,63,Yes,Master,No
+S01212,6.5,,62,Yes,Bachelor,No
+S01213,6.4,53.4,64.8,No,High School,Yes
+S01214,14.5,49.7,62.4,No,Bachelor,No
+S01215,8.5,,58.1,Yes,nan,No
+S01216,16.2,67.5,63,No,High School,Yes
+S01217,6.6,82.1,77,No,nan,Yes
+S01218,,76.7,52,No,Bachelor,Yes
+S01219,5.8,42.5,85.2,No,Associate,Yes
+S01220,20.7,94.7,81.2,Yes,High School,No
+S01221,4.1,69.5,66.3,No,nan,No
+S01222,11.5,79.8,29.3,No,High School,No
+S01223,13.2,119,,Yes,Associate,No
+S01224,12.1,100.7,66.7,Yes,Associate,Yes
+S01225,9.1,79.2,75.2,Yes,Bachelor,No
+S01226,9.4,,91.6,Yes,Associate,Yes
+S01227,10.2,47.9,58.9,No,High School,No
+S01228,9.3,98.2,57.3,Yes,Doctorate,Yes
+S01229,14.8,67,46.7,Yes,Doctorate,Yes
+S01230,21.1,71.6,74,Yes,Master,Yes
+S01231,7.2,52.1,65.1,Yes,nan,No
+S01232,,83.9,57.8,Yes,Doctorate,No
+S01233,9.6,97.8,65.3,Yes,Bachelor,Yes
+S01234,22.9,105.5,63.6,Yes,Bachelor,Yes
+S01235,6,66,79.5,Yes,Bachelor,No
+S01236,18.2,87.9,58.6,Yes,nan,Yes
+S01237,,73.1,65,No,Bachelor,nan
+S01238,7.2,92.6,77.7,No,High School,Yes
+S01239,12.8,74.9,61,Yes,Bachelor,No
+S01240,18.1,58.5,53.9,No,Associate,No
+S01241,8.1,101.4,45.8,No,High School,Yes
+S01242,,77,49.4,No,Doctorate,Yes
+S01243,7.1,68,55.4,Yes,Doctorate,nan
+S01244,4.9,78.6,79.4,Yes,Doctorate,No
+S01245,6.8,60.3,53.9,No,Doctorate,Yes
+S01246,3.9,,61.8,No,Master,Yes
+S01247,10.2,71.1,49.6,Yes,Doctorate,No
+S01248,6.2,59.1,65.8,Yes,Doctorate,Yes
+S01249,11.2,122.5,69.3,No,nan,No
+S01250,2.2,54.9,70.3,Yes,Bachelor,No
+S01251,,150,,No,Bachelor,Yes
+S01252,14.2,76.1,64.8,Yes,nan,Yes
+S01253,0,,69.4,Yes,Master,No
+S01254,11.9,68.3,56.5,nan,Bachelor,Yes
+S01255,16.1,48.1,97.6,Yes,Bachelor,No
+S01256,4,116.3,77.7,No,High School,No
+S01257,18.4,69.6,78.3,No,High School,Yes
+S01258,12.1,71.3,81.3,Yes,High School,No
+S01259,6.5,113.9,,Yes,Master,No
+S01260,9.7,58.5,82.1,No,Bachelor,Yes
+S01261,12.8,100.9,62.2,nan,Bachelor,Yes
+S01262,,86.9,99,Yes,High School,Yes
+S01263,12.7,35.4,200,No,Master,No
+S01264,5.4,67.6,60.9,Yes,High School,Yes
+S01265,10.8,83.7,91,No,Associate,Yes
+S01266,2.9,75.7,62.4,Yes,Doctorate,Yes
+S01267,9.4,75.8,74.9,Yes,Bachelor,Yes
+S01268,5.5,62.9,57.9,Yes,Doctorate,No
+S01269,6.3,60.7,71.7,No,Master,Yes
+S01270,16.2,68.8,59.6,nan,Associate,No
+S01271,15.5,114.2,82.5,Yes,High School,No
+S01272,13,56.8,,No,Master,Yes
+S01273,,65.4,38.7,Yes,Associate,No
+S01274,8.4,75.6,,Yes,Bachelor,Yes
+S01275,16.1,45.7,50.4,No,Bachelor,Yes
+S01276,10.7,83.6,86.1,Yes,High School,Yes
+S01277,21.6,49.2,46.4,Yes,High School,No
+S01278,12,53.3,61,Yes,Doctorate,Yes
+S01279,11,52.3,96.7,No,Associate,Yes
+S01280,8.5,42.2,83.7,Yes,High School,No
+S01281,10.7,100.4,52.2,Yes,High School,No
+S01282,9.2,85.4,51.7,No,High School,Yes
+S01283,13.5,93.4,50.3,No,Bachelor,Yes
+S01284,14.8,91.6,68.1,No,Bachelor,Yes
+S01285,6.1,71.6,57.6,Yes,High School,No
+S01286,3.3,74.4,68.5,No,Master,Yes
+S01287,0.8,,69.6,Yes,High School,No
+S01288,12.5,107.8,65.7,No,Doctorate,No
+S01289,4.5,49.8,67.2,Yes,High School,No
+S01290,-0.8,125.4,66.3,No,High School,Yes
+S01291,11.9,48.7,53.4,Yes,High School,No
+S01292,22.5,65.8,,No,Doctorate,Yes
+S01293,10,76.5,65.8,No,Master,nan
+S01294,14.2,78.3,53.3,No,Master,Yes
+S01295,10.4,114.3,79.6,Yes,Bachelor,No
+S01296,9.5,95.2,46.2,No,High School,No
+S01297,14.6,83.3,59.6,Yes,Doctorate,Yes
+S01298,8.5,95.7,67.3,Yes,Master,Yes
+S01299,11.3,81.9,83.9,No,Doctorate,No
+S01300,11.6,61.5,59.1,Yes,Master,Yes
+S01301,6.7,84.7,67.8,Yes,Associate,nan
+S01302,15,76.4,74.3,Yes,Bachelor,Yes
+S01303,9.1,58.1,76.4,Yes,Doctorate,No
+S01304,6.2,100.3,70.5,Yes,Associate,Yes
+S01305,12.7,73.9,92.1,Yes,Associate,Yes
+S01306,5.5,52.6,59,Yes,Bachelor,nan
+S01307,10.1,55.7,91,No,High School,Yes
+S01308,10,85.7,75.3,Yes,High School,Yes
+S01309,15.4,96,68.7,No,Master,Yes
+S01310,12.4,84.6,69.9,nan,Bachelor,Yes
+S01311,9.9,84.7,79.1,No,Master,Yes
+S01312,14.1,58.8,54.2,No,Bachelor,No
+S01313,17,76.9,67.2,Yes,Associate,Yes
+S01314,12.8,68.4,61.4,Yes,High School,No
+S01315,10.1,71.1,89,No,Doctorate,No
+S01316,3.4,72.8,,Yes,Associate,Yes
+S01317,4.7,61.8,95,Yes,Associate,Yes
+S01318,8.5,90,58.3,No,Master,Yes
+S01319,7,54.8,44.2,No,Bachelor,Yes
+S01320,9.1,49,51.9,Yes,Master,No
+S01321,10.3,59.3,52.3,Yes,Bachelor,Yes
+S01322,12.6,,89.9,No,Doctorate,No
+S01323,9.6,81.8,44.8,No,nan,Yes
+S01324,12.4,39.3,69.8,Yes,nan,No
+S01325,10.3,86.9,87,No,High School,No
+S01326,0.1,74,106.6,No,Doctorate,No
+S01327,5.3,66.7,63.3,Yes,High School,No
+S01328,9.3,70.2,66.7,No,Doctorate,Yes
+S01329,4,48.3,47.5,nan,High School,No
+S01330,13,,59.3,No,Master,No
+S01331,17.7,49.6,,No,Doctorate,No
+S01332,16.1,68,78.1,Yes,Doctorate,Yes
+S01333,8.9,68,83.2,Yes,Associate,Yes
+S01334,17.5,90.4,74.7,No,Doctorate,Yes
+S01335,10.7,75.8,81,No,Master,Yes
+S01336,8.3,89.1,,Yes,nan,No
+S01337,6.9,51.1,58.1,Yes,Associate,Yes
+S01338,8.5,72.8,76.1,No,Associate,No
+S01339,8.1,85.6,54.6,Yes,Master,Yes
+S01340,10.9,99.8,34.5,Yes,High School,Yes
+S01341,10.8,52.2,69,No,High School,Yes
+S01342,10,58.2,66.9,Yes,Master,Yes
+S01343,12.2,85.1,63.9,nan,nan,No
+S01344,16,107.2,,No,High School,No
+S01345,14.7,80.7,67.1,Yes,Bachelor,No
+S01346,2.6,52.8,,No,Associate,Yes
+S01347,-2.8,53.2,94.4,Yes,Doctorate,Yes
+S01348,14.7,77.7,73,No,Doctorate,Yes
+S01349,3.2,82.2,73.8,nan,Bachelor,No
+S01350,8.9,70.6,53.8,No,Associate,Yes
+S01351,4.1,53.4,50.7,No,Bachelor,Yes
+S01352,1,97,50.3,Yes,Associate,Yes
+S01353,12.7,68,60.6,No,High School,No
+S01354,13.8,85.5,65.9,No,Associate,No
+S01355,7.1,39.5,68.2,No,Associate,No
+S01356,,99,52.7,Yes,High School,Yes
+S01357,7.3,61.3,31.4,No,Associate,No
+S01358,12,101.9,58.7,No,Master,Yes
+S01359,2.6,150,79.1,No,Associate,No
+S01360,10.9,46.4,59.4,Yes,Bachelor,Yes
+S01361,,79.9,63.9,Yes,High School,Yes
+S01362,12.9,108.1,41.1,Yes,High School,No
+S01363,10.6,63,66.9,No,Doctorate,No
+S01364,,108.2,71.1,Yes,Master,No
+S01365,16,82.7,,Yes,High School,Yes
+S01366,9.2,101.8,79.5,Yes,Master,Yes
+S01367,9.9,78.2,83,Yes,Doctorate,Yes
+S01368,5.3,72.5,96.7,Yes,Associate,Yes
+S01369,7.8,111.7,51.1,Yes,Master,Yes
+S01370,5.6,89.4,69.3,No,Bachelor,No
+S01371,9.1,70.3,47.2,Yes,Bachelor,No
+S01372,18.6,83.5,74.1,No,Associate,Yes
+S01373,3.1,63.7,72.3,No,Master,Yes
+S01374,1.9,,36.1,No,Master,No
+S01375,17.4,98.9,69.1,No,Associate,Yes
+S01376,9,71.8,62,Yes,Associate,No
+S01377,6.7,57.5,47.2,No,Associate,Yes
+S01378,15.2,55.7,60.6,No,Associate,No
+S01379,7,76.5,95.9,No,Bachelor,No
+S01380,19.1,58.8,73.6,No,High School,Yes
+S01381,13.4,46.3,52.6,Yes,Associate,No
+S01382,7.6,51,60,No,nan,Yes
+S01383,20.8,98.5,36,Yes,Bachelor,nan
+S01384,7,72.2,48.8,No,Bachelor,nan
+S01385,13.7,76.2,90.3,No,Doctorate,No
+S01386,11.5,55.7,78.8,No,High School,Yes
+S01387,16.5,63.4,71.8,Yes,Doctorate,Yes
+S01388,17.8,62.7,70.9,Yes,Associate,No
+S01389,10.2,69.5,86.3,Yes,High School,Yes
+S01390,6.2,41.8,69.8,No,Master,Yes
+S01391,-1,96.8,60.8,Yes,Master,No
+S01392,6.6,74.7,,No,High School,No
+S01393,20.1,79,61.1,No,Bachelor,No
+S01394,10.7,,60.9,No,Master,No
+S01395,,,90.4,Yes,High School,Yes
+S01396,10.9,63.5,49.1,Yes,Master,No
+S01397,3.3,87.1,57.4,No,Master,Yes
+S01398,5.1,86.9,37.6,Yes,Doctorate,Yes
+S01399,16,81.3,80.2,Yes,Associate,No
+S01400,6.7,96.2,70.1,Yes,Associate,No
+S01401,4.8,91,91.1,nan,Bachelor,nan
+S01402,12.7,89.5,55.4,No,High School,nan
+S01403,15.9,102.3,53.1,No,Master,Yes
+S01404,13.6,75.6,47.5,Yes,Associate,No
+S01405,15,76.2,71.8,No,Bachelor,No
+S01406,6.2,91.4,,No,High School,No
+S01407,2.9,71.4,69.5,No,Doctorate,No
+S01408,17.5,84.6,58.6,nan,Doctorate,Yes
+S01409,8.4,63.8,86.6,No,High School,No
+S01410,,29.4,84,No,Bachelor,No
+S01411,16.6,87,66.3,No,Doctorate,No
+S01412,12.8,44,80.8,No,Master,Yes
+S01413,12.3,61,63,Yes,High School,No
+S01414,20.8,91.4,64.3,No,Bachelor,Yes
+S01415,6.8,91.6,32.5,Yes,Doctorate,No
+S01416,14.6,98.5,72.6,No,High School,nan
+S01417,10.3,34.6,65.3,No,Associate,Yes
+S01418,11.3,80.9,78.2,No,Associate,Yes
+S01419,17.6,69.8,75.7,No,Bachelor,Yes
+S01420,12.5,94.8,53.8,Yes,Bachelor,No
+S01421,12.7,104.5,62.1,No,Bachelor,Yes
+S01422,15.4,48.8,,No,Master,No
+S01423,8.2,75.3,80.7,Yes,High School,Yes
+S01424,5.8,91.7,88.6,Yes,Master,Yes
+S01425,4.8,68.2,77,No,Bachelor,No
+S01426,0.2,109.9,94.8,No,High School,nan
+S01427,20.3,67,72.9,No,Bachelor,Yes
+S01428,4.5,69,50.4,Yes,Master,Yes
+S01429,8.9,53.5,44.2,Yes,Master,nan
+S01430,8.6,78.1,51.2,Yes,Associate,Yes
+S01431,11.5,14.6,58.2,No,Bachelor,No
+S01432,14.1,70,54.8,No,High School,No
+S01433,14.3,100.4,,Yes,High School,Yes
+S01434,,47.1,62.3,Yes,Master,Yes
+S01435,9.2,42.6,66.1,Yes,Doctorate,Yes
+S01436,11.4,97.3,101.6,No,Doctorate,Yes
+S01437,8.8,100,78.1,Yes,Doctorate,No
+S01438,18,47.9,69,Yes,Doctorate,No
+S01439,12.5,109.7,80.9,No,Associate,Yes
+S01440,13.7,83.6,52.9,Yes,Master,Yes
+S01441,13.3,96,52.3,No,Bachelor,No
+S01442,15.9,59.2,78.7,Yes,Doctorate,Yes
+S01443,10.9,104.8,65,No,Bachelor,nan
+S01444,3.5,69.6,66.8,No,High School,nan
+S01445,12,68.8,47.9,Yes,Bachelor,Yes
+S01446,6.7,84.6,57.9,Yes,Bachelor,nan
+S01447,7.4,67.2,58.9,Yes,Bachelor,No
+S01448,12.9,44.6,57.8,Yes,Bachelor,Yes
+S01449,16.2,77.6,97.2,No,Associate,No
+S01450,10.1,68.6,96.8,Yes,Doctorate,No
+S01451,11.5,59.6,,No,Associate,No
+S01452,18.5,99.8,,No,Master,No
+S01453,11.2,122.8,56.2,No,Master,Yes
+S01454,23,56.6,49.5,No,nan,No
+S01455,12.8,78.9,,Yes,High School,No
+S01456,1.2,67,84.1,Yes,Doctorate,No
+S01457,13.8,120.8,76.7,No,Master,No
+S01458,11.9,84.8,66.5,Yes,Bachelor,No
+S01459,16.4,93.5,75,Yes,nan,No
+S01460,13.4,98.6,64.7,No,High School,Yes
+S01461,9.3,77.6,60.8,No,High School,nan
+S01462,3.9,71.3,49.8,Yes,Associate,Yes
+S01463,9,105.4,60.1,No,Bachelor,Yes
+S01464,5.7,90.6,69.6,Yes,Doctorate,No
+S01465,7.1,58.1,58.7,No,Master,No
+S01466,12.9,60.5,47.9,Yes,High School,nan
+S01467,18.3,67.2,66.7,Yes,Doctorate,Yes
+S01468,12,98.2,69.6,No,Associate,No
+S01469,4,104.5,59.5,Yes,Associate,Yes
+S01470,12.2,118,64.7,No,High School,Yes
+S01471,16,60.8,27,No,Doctorate,No
+S01472,7,77.8,76.1,Yes,Doctorate,No
+S01473,9.3,67,69.3,No,Bachelor,Yes
+S01474,10.1,71.4,86.2,No,High School,Yes
+S01475,6.1,93.6,61.8,Yes,High School,No
+S01476,13.2,74.1,,Yes,Doctorate,Yes
+S01477,9.4,101.3,82.7,Yes,High School,Yes
+S01478,12.1,64.7,65.4,Yes,Bachelor,No
+S01479,5.6,89.8,70.2,No,Associate,Yes
+S01480,7.8,66.1,67.1,No,Bachelor,Yes
+S01481,13.6,38.3,41,Yes,Master,Yes
+S01482,8.1,54.6,70.8,Yes,High School,Yes
+S01483,18.6,77.5,50.9,Yes,nan,Yes
+S01484,8,113.4,52.1,Yes,Doctorate,No
+S01485,11.1,65.8,,No,Master,Yes
+S01486,14.7,71.6,84.4,No,Bachelor,No
+S01487,2.9,84.8,76.7,Yes,Bachelor,Yes
+S01488,1.2,63,73.7,No,Master,No
+S01489,2.4,65.3,70.1,Yes,Doctorate,Yes
+S01490,16.3,76.4,78,Yes,nan,Yes
+S01491,7.2,66.3,90.3,No,Bachelor,No
+S01492,22.8,39.3,56.3,No,Doctorate,nan
+S01493,7.2,62,56.8,No,Doctorate,Yes
+S01494,10.9,87.3,76,Yes,Master,No
+S01495,17.7,87.9,39.4,No,Master,No
+S01496,20,101.7,63.5,Yes,Doctorate,No
+S01497,20.3,100.1,68.9,No,High School,Yes
+S01498,16,57,56.9,nan,Doctorate,Yes
+S01499,15.1,60.1,36.2,No,Associate,No
+S01500,13,61,,Yes,Master,Yes
+S01501,13.9,72,56,No,Bachelor,No
+S01502,7.2,62.5,56.7,Yes,Master,Yes
+S01503,,71.5,84.9,No,High School,No
+S01504,10,57.6,20.7,No,High School,No
+S01505,9.1,90.7,87.7,nan,Bachelor,No
+S01506,7.7,56,98.4,Yes,Bachelor,Yes
+S01507,13.5,55,51.7,nan,nan,No
+S01508,14.8,85.4,57.7,Yes,Associate,No
+S01509,10.4,89.4,72.3,No,Associate,No
+S01510,17.4,70.5,68.8,No,Master,Yes
+S01511,4.3,92.4,79.8,Yes,Doctorate,Yes
+S01512,9,90.9,72.5,Yes,Associate,Yes
+S01513,6.4,113,,Yes,Doctorate,Yes
+S01514,0.7,89.7,116.6,Yes,Master,Yes
+S01515,,109.1,41.1,No,Associate,Yes
+S01516,9.4,76.2,85.1,Yes,High School,Yes
+S01517,17.6,103,87.2,Yes,High School,Yes
+S01518,13.2,103.4,48.5,No,High School,Yes
+S01519,4.9,72.1,53,Yes,Associate,Yes
+S01520,19.3,61.2,72.5,No,High School,No
+S01521,16.1,64.7,46.3,Yes,High School,No
+S01522,12.9,83.3,55.8,No,Doctorate,No
+S01523,8.9,52,68.6,No,Master,No
+S01524,5.2,65.9,,No,Doctorate,No
+S01525,8.1,98.9,,No,Associate,No
+S01526,15.4,88.3,52,Yes,Associate,Yes
+S01527,19.4,27.9,50.9,Yes,Bachelor,Yes
+S01528,17.7,48.3,72.1,Yes,Doctorate,No
+S01529,7.6,118.2,63.5,No,Master,Yes
+S01530,4.4,98.6,66.9,No,Bachelor,Yes
+S01531,10.7,63.3,75.6,No,Doctorate,nan
+S01532,1.2,45.2,67.8,No,High School,Yes
+S01533,11.6,50,60,Yes,Associate,No
+S01534,9.3,85.2,,No,Master,Yes
+S01535,7.7,114.5,71.7,No,Master,No
+S01536,,113.3,94.9,Yes,High School,No
+S01537,12.6,43.5,78.2,No,Associate,No
+S01538,7.3,69.1,42.4,Yes,Associate,No
+S01539,4.2,57.9,34.6,No,Bachelor,No
+S01540,-4.4,77.7,54,No,Bachelor,No
+S01541,9.9,48.4,,Yes,Master,Yes
+S01542,18.9,64.1,45.7,Yes,Bachelor,Yes
+S01543,18.3,57.7,29.4,No,Master,No
+S01544,7.7,85.5,68.5,Yes,Associate,Yes
+S01545,,64.7,47.6,Yes,Bachelor,No
+S01546,12.3,67.6,47.5,No,Master,Yes
+S01547,5,85.2,55,Yes,High School,No
+S01548,11.5,107.9,55.4,Yes,Doctorate,No
+S01549,-1,117.3,61.1,No,Doctorate,No
+S01550,16.1,84.1,44,Yes,Doctorate,No
+S01551,9.5,73.2,79.8,No,Doctorate,Yes
+S01552,9,,69.2,Yes,Master,No
+S01553,5.6,98.3,71.2,Yes,nan,No
+S01554,5.9,92.6,58.4,Yes,Associate,No
+S01555,8.9,43.4,81.1,No,Master,Yes
+S01556,11.8,99.2,72.3,No,Bachelor,No
+S01557,14.6,82.2,67.9,No,Associate,No
+S01558,,57.1,80,No,Doctorate,No
+S01559,17.5,61.6,39.9,No,Associate,Yes
+S01560,8.6,86.6,67.9,No,Bachelor,No
+S01561,9.9,24.8,55,Yes,Master,No
+S01562,6.3,72.5,54.1,Yes,nan,nan
+S01563,-2.1,61.9,,No,Master,No
+S01564,,59.9,85.6,Yes,High School,Yes
+S01565,13.7,65.9,84.1,No,Bachelor,No
+S01566,8.6,45.4,65.1,No,Doctorate,No
+S01567,10.3,96,60.1,Yes,nan,Yes
+S01568,12.6,32.4,83.6,No,nan,No
+S01569,2.2,78.4,50.3,No,High School,Yes
+S01570,7.4,58,90.5,No,Doctorate,Yes
+S01571,14,114.7,59.2,nan,High School,Yes
+S01572,3.7,75.5,64.3,No,Associate,No
+S01573,11.5,32.5,57,No,Master,No
+S01574,3.2,85.9,65.5,No,Bachelor,Yes
+S01575,12.3,53.1,51.3,nan,High School,No
+S01576,9.8,94.7,59.4,Yes,Associate,No
+S01577,1.9,87.4,67.3,No,Bachelor,Yes
+S01578,15.8,104.5,63.4,No,High School,Yes
+S01579,,78.7,27.7,Yes,Doctorate,Yes
+S01580,5.9,91.4,102.1,No,Associate,Yes
+S01581,11,75.9,88.7,Yes,Master,Yes
+S01582,15.7,63.2,47.5,Yes,Master,No
+S01583,4.9,96.3,55.7,nan,High School,No
+S01584,10.3,50.4,,No,High School,Yes
+S01585,12.1,74.3,75,Yes,Doctorate,No
+S01586,13.5,63.6,72.1,No,Master,nan
+S01587,10.9,91.8,48.5,No,Associate,No
+S01588,8.2,56.1,100.1,No,Master,No
+S01589,5.9,66.8,59.1,Yes,Associate,Yes
+S01590,10.4,75.9,92.1,Yes,High School,Yes
+S01591,4.6,104.8,55.9,No,Bachelor,No
+S01592,-4.6,,80.9,nan,High School,No
+S01593,12.2,67,70.6,Yes,Doctorate,No
+S01594,14.5,48,52.2,No,Bachelor,No
+S01595,-1.8,55.3,73.8,No,Bachelor,No
+S01596,5,83.3,67.7,Yes,nan,Yes
+S01597,13.1,75.6,78.8,No,Associate,No
+S01598,20.3,76,53.4,No,Associate,Yes
+S01599,10.1,109.8,63.7,No,Associate,No
+S01600,6.4,41.6,77.1,Yes,High School,Yes
+S01601,9.1,121.4,37.6,Yes,Doctorate,No
+S01602,16.9,,47.7,No,Associate,Yes
+S01603,6.8,68.5,65.6,nan,Master,No
+S01604,6,82.8,67.7,Yes,Associate,Yes
+S01605,7.6,61.3,63.6,Yes,Associate,No
+S01606,5.2,81.4,77,Yes,Doctorate,No
+S01607,10.6,118,63.5,Yes,Doctorate,No
+S01608,18.1,62.1,80.3,No,Associate,No
+S01609,11.6,70.4,69.9,No,Bachelor,Yes
+S01610,8.7,59.9,48.2,nan,High School,Yes
+S01611,8.5,63.1,67.4,Yes,Associate,Yes
+S01612,2.2,66.9,63.8,No,Master,No
+S01613,14.4,53.1,54.9,Yes,Bachelor,Yes
+S01614,9.6,69.7,42.2,No,Associate,No
+S01615,9.1,76.1,47.3,No,Master,No
+S01616,26,66.9,52.3,No,High School,No
+S01617,11.5,29,80.9,No,Associate,Yes
+S01618,6.2,71.9,60.1,Yes,Bachelor,No
+S01619,7.9,74.1,83.3,Yes,High School,No
+S01620,15.7,113,49.7,Yes,Doctorate,Yes
+S01621,10.6,75.5,54.4,No,High School,nan
+S01622,2.8,93.7,56.6,No,Doctorate,Yes
+S01623,14.6,66.5,60.6,Yes,Associate,No
+S01624,6.7,101,68.6,Yes,Master,No
+S01625,19.4,56.1,74.4,No,Bachelor,No
+S01626,15.4,85.1,83.8,Yes,Master,Yes
+S01627,7.8,91.8,32,Yes,Associate,Yes
+S01628,16.4,88.9,95.4,No,Bachelor,No
+S01629,10.3,118.3,49.1,Yes,nan,Yes
+S01630,14.3,63.3,66.5,Yes,Associate,Yes
+S01631,12.4,103.3,79.4,Yes,Associate,No
+S01632,5.8,98.1,,nan,Associate,No
+S01633,6.8,76,81.8,No,High School,Yes
+S01634,15.1,111.8,80.3,Yes,Doctorate,nan
+S01635,8.3,72.1,71.3,Yes,Doctorate,nan
+S01636,8,75.4,76.3,Yes,Bachelor,No
+S01637,5.2,74.9,46.4,Yes,Bachelor,No
+S01638,12.1,49.5,54.3,Yes,Master,Yes
+S01639,20.3,90.2,50.4,No,Associate,No
+S01640,4.7,87.1,29.4,No,Associate,No
+S01641,10.1,72.9,50.9,Yes,Associate,nan
+S01642,17.1,,49.5,No,Doctorate,No
+S01643,9.6,66.3,,No,Doctorate,No
+S01644,,40.4,75,No,Bachelor,No
+S01645,4.7,113,53.5,nan,Master,No
+S01646,12.1,95.2,77.7,Yes,Bachelor,Yes
+S01647,9.1,,41.5,Yes,Bachelor,No
+S01648,14.9,68.2,55.2,No,Associate,Yes
+S01649,15.9,81.8,59.1,No,Doctorate,No
+S01650,22.9,49.8,82.8,Yes,Associate,Yes
+S01651,12.9,70.5,65.9,Yes,Doctorate,No
+S01652,11.6,56.9,69.4,No,Bachelor,No
+S01653,11,80.2,48.5,Yes,Master,No
+S01654,8.2,93.5,77.8,No,Bachelor,Yes
+S01655,11.7,54,64.1,No,Doctorate,No
+S01656,8.5,89.5,38.7,No,Bachelor,No
+S01657,10.8,79,75.5,Yes,High School,No
+S01658,16.6,88.7,69.4,No,High School,No
+S01659,5,70.2,59.8,Yes,Associate,No
+S01660,15.7,89.1,59.8,Yes,Doctorate,Yes
+S01661,16.6,61.1,48.9,Yes,Doctorate,Yes
+S01662,9.4,41.4,82.4,Yes,Associate,Yes
+S01663,-0.6,45.9,75.9,No,Master,No
+S01664,7,64.9,49.1,No,Bachelor,No
+S01665,16.5,42.7,65.8,Yes,Associate,Yes
+S01666,9.9,106,54.4,Yes,Bachelor,Yes
+S01667,5,73.3,45.9,Yes,Doctorate,Yes
+S01668,7.5,93.4,88.3,Yes,Associate,No
+S01669,14.2,90.7,59.7,Yes,Bachelor,Yes
+S01670,12.7,75.1,52.4,Yes,Bachelor,No
+S01671,,145.7,47.1,Yes,Doctorate,No
+S01672,8.2,133.6,61.4,Yes,Associate,No
+S01673,8,102.8,33.2,No,Doctorate,No
+S01674,5.4,56.9,62.7,No,High School,Yes
+S01675,18.1,103.7,83.2,Yes,Doctorate,Yes
+S01676,,40,78.9,Yes,Bachelor,No
+S01677,16.1,102.9,72.2,Yes,Doctorate,Yes
+S01678,17.6,23.9,101.1,Yes,Doctorate,No
+S01679,15,68.6,68.8,No,Doctorate,Yes
+S01680,7.8,99.2,51.3,Yes,Doctorate,Yes
+S01681,12,82.7,77.5,No,High School,Yes
+S01682,9.9,45.4,67,No,High School,No
+S01683,5.5,78.4,65.6,No,Bachelor,No
+S01684,11.6,,69.4,No,Master,No
+S01685,4.1,79.1,59.1,Yes,High School,No
+S01686,15.9,66.9,93,nan,Bachelor,Yes
+S01687,7.7,92.1,40.6,No,Master,Yes
+S01688,11,97.9,77.2,Yes,Bachelor,No
+S01689,11.4,71.9,67,No,Associate,No
+S01690,8.7,105.4,,No,Doctorate,Yes
+S01691,12.9,71.9,59.3,No,High School,No
+S01692,7.6,65.2,87.7,No,Master,No
+S01693,14.4,,78.3,No,Bachelor,Yes
+S01694,3.3,101.4,53.4,No,High School,Yes
+S01695,10.6,62.6,81.8,No,Associate,Yes
+S01696,,,69.5,Yes,Bachelor,Yes
+S01697,,110.3,56.2,No,Doctorate,No
+S01698,6.6,72.9,39.6,No,High School,Yes
+S01699,12.6,75.1,76.5,Yes,Associate,No
+S01700,10.9,70,54.1,Yes,High School,Yes
+S01701,11.8,101.4,72.9,No,Bachelor,No
+S01702,12.4,117.9,86.9,No,Doctorate,No
+S01703,13.2,,52.8,No,High School,No
+S01704,15.5,123.4,85.2,Yes,Doctorate,No
+S01705,12,63.9,47.8,Yes,Doctorate,Yes
+S01706,,69.3,87.2,No,Associate,Yes
+S01707,13.4,88.5,92.3,Yes,Doctorate,No
+S01708,19.5,58.7,78.5,No,Associate,No
+S01709,9.3,88.2,71.6,No,Bachelor,No
+S01710,5.1,64.6,78.4,No,Associate,Yes
+S01711,15.5,44.1,59.9,No,Master,No
+S01712,9.4,40.1,45.1,No,Bachelor,Yes
+S01713,-0.9,68.5,53.9,Yes,Bachelor,Yes
+S01714,14.2,83.4,99.3,Yes,Master,Yes
+S01715,7.3,47.8,47.5,nan,Associate,No
+S01716,9.5,78.6,79.4,No,High School,Yes
+S01717,11.7,78.6,63.3,Yes,Master,No
+S01718,11,71.6,59.6,No,High School,Yes
+S01719,13.5,56.5,90.3,No,Bachelor,Yes
+S01720,7.8,79.8,66.4,No,Bachelor,No
+S01721,12.6,72.2,79,Yes,nan,Yes
+S01722,8.7,94.6,101,Yes,Master,No
+S01723,13.7,49.1,61.9,No,Associate,No
+S01724,13.1,77.3,72.1,No,Doctorate,Yes
+S01725,5.3,49.6,75.6,No,nan,Yes
+S01726,15.4,70.3,,Yes,Doctorate,No
+S01727,7.3,53.1,72.4,No,Doctorate,No
+S01728,14,56.7,81.9,nan,High School,No
+S01729,11.8,74.9,76.7,No,Master,Yes
+S01730,19.2,63.7,66.8,Yes,Bachelor,No
+S01731,8.9,104.3,21.7,No,Associate,Yes
+S01732,,98.6,43.3,No,Associate,Yes
+S01733,9.9,91.1,92.5,Yes,Master,No
+S01734,8.5,90.7,50.7,Yes,Bachelor,No
+S01735,14,77.6,82.5,No,Bachelor,nan
+S01736,1.9,101.1,46.6,Yes,High School,Yes
+S01737,4.7,69.1,50.5,Yes,Doctorate,No
+S01738,4.7,,75.2,No,Doctorate,No
+S01739,14.8,56.2,88.3,No,nan,Yes
+S01740,18.6,52.4,74.8,Yes,Doctorate,Yes
+S01741,9.5,47.1,,No,Doctorate,No
+S01742,9.2,50.6,44.6,Yes,Doctorate,No
+S01743,10.4,42.4,33.1,Yes,High School,No
+S01744,15.8,79.3,58.5,No,Bachelor,Yes
+S01745,,92.1,67.3,No,Master,No
+S01746,11.2,75.7,64.2,Yes,Bachelor,nan
+S01747,14.9,47.3,98.2,No,High School,No
+S01748,12.5,65.6,41.9,No,Doctorate,Yes
+S01749,10.9,91.8,60.4,Yes,High School,Yes
+S01750,15,68.2,90.1,No,Doctorate,Yes
+S01751,-3.5,59,74.8,Yes,Associate,No
+S01752,13.4,44.7,48.6,Yes,Associate,Yes
+S01753,6.7,66.5,31.8,No,Bachelor,No
+S01754,0.8,60.9,59.1,No,High School,No
+S01755,12.6,73.3,49.8,No,Master,Yes
+S01756,16.9,84.5,58.3,Yes,Bachelor,Yes
+S01757,9.3,69.4,99.3,No,Doctorate,No
+S01758,14.8,78.7,49.8,No,nan,No
+S01759,18.1,84.4,55.3,No,High School,No
+S01760,16.6,50.4,78.7,Yes,Doctorate,Yes
+S01761,18.2,112.7,69.4,No,Doctorate,No
+S01762,13.7,60.2,87.5,nan,Bachelor,Yes
+S01763,10.4,85.3,77.3,Yes,Associate,Yes
+S01764,2,,54.6,Yes,High School,Yes
+S01765,8.8,77.2,72.7,Yes,Master,No
+S01766,5.8,77.9,66.7,Yes,High School,nan
+S01767,20.9,108.2,38.6,No,Associate,No
+S01768,9.1,70.3,97.4,Yes,High School,No
+S01769,,101,49.1,No,Bachelor,Yes
+S01770,12.8,80.8,63.4,No,Associate,No
+S01771,10.2,112,57.9,Yes,Master,No
+S01772,18.5,39.4,66.8,No,Doctorate,No
+S01773,6.9,84.6,67.9,Yes,Master,No
+S01774,11,21.5,73.7,No,High School,Yes
+S01775,6.3,73.8,57.9,No,nan,No
+S01776,3.4,95.4,81.2,Yes,nan,No
+S01777,6.9,103.9,54.8,Yes,Master,No
+S01778,9.8,89.8,57,nan,High School,No
+S01779,7.9,69.2,39.2,Yes,Doctorate,Yes
+S01780,6.5,,68.4,No,Doctorate,No
+S01781,3,125.3,87.8,Yes,Bachelor,Yes
+S01782,9.6,76.5,61.3,Yes,Doctorate,No
+S01783,2.5,94.2,91.5,nan,Master,No
+S01784,13.8,66.4,48.6,Yes,High School,Yes
+S01785,10.4,96.4,44.6,No,Master,No
+S01786,2.7,93.1,,Yes,Bachelor,No
+S01787,8.5,62.8,62.5,No,Master,No
+S01788,6.2,90.5,50.4,No,High School,No
+S01789,11.6,91.5,68.9,No,Associate,nan
+S01790,,89.8,70,Yes,Doctorate,No
+S01791,0.6,74.2,79.2,No,Master,Yes
+S01792,10.6,99.6,60,Yes,High School,Yes
+S01793,9.2,56.3,44.7,No,Bachelor,No
+S01794,13.4,,60.9,No,Master,Yes
+S01795,11.1,77.2,64.7,Yes,High School,Yes
+S01796,6.2,98.4,81.9,Yes,Doctorate,Yes
+S01797,8.4,55.7,42.4,Yes,Doctorate,No
+S01798,6,79.8,59.4,No,High School,Yes
+S01799,,65.2,,No,Bachelor,Yes
+S01800,10.1,77.2,88.2,No,Doctorate,No
+S01801,19.5,82.8,55,Yes,Associate,Yes
+S01802,9.7,49.4,52.8,No,High School,No
+S01803,6.5,100.3,75,No,High School,No
+S01804,2.4,83.6,30.8,Yes,Master,Yes
+S01805,1,57.8,56.5,No,Bachelor,No
+S01806,2.1,68.2,73.9,Yes,Master,Yes
+S01807,11.3,104.9,70.3,Yes,High School,Yes
+S01808,12.5,83.3,68,Yes,Bachelor,No
+S01809,2.1,55.7,40.4,Yes,High School,Yes
+S01810,14.5,59.3,45.9,Yes,Doctorate,Yes
+S01811,7.6,87.5,85.1,Yes,Bachelor,No
+S01812,10.7,89.9,63.6,Yes,Master,Yes
+S01813,18.1,82.3,61.7,Yes,Doctorate,No
+S01814,14.5,69.2,53.2,No,Associate,nan
+S01815,8.7,91.2,65.3,Yes,Master,No
+S01816,5.5,68.8,57.7,Yes,High School,Yes
+S01817,-0.8,57.9,77.9,Yes,Associate,No
+S01818,6.4,106.7,49.2,No,Doctorate,No
+S01819,8.9,84.8,,No,Bachelor,Yes
+S01820,5.1,59.3,89.7,No,Bachelor,nan
+S01821,9.3,77.7,74.3,Yes,Doctorate,No
+S01822,10.4,75.5,46.5,nan,Bachelor,No
+S01823,8.9,68,77.3,Yes,Bachelor,No
+S01824,6.7,79.7,57.7,No,Doctorate,No
+S01825,10.8,56.4,57.2,No,Bachelor,Yes
+S01826,12.2,92.5,67,Yes,High School,Yes
+S01827,4.5,74.9,61.3,Yes,Doctorate,No
+S01828,17.1,42.8,58,No,Master,Yes
+S01829,9.5,70.4,75.3,nan,Doctorate,Yes
+S01830,10.1,62.7,66.7,Yes,High School,Yes
+S01831,13.5,15.2,36.3,nan,High School,Yes
+S01832,11.2,71.9,,nan,Associate,Yes
+S01833,14.8,95.7,83,Yes,Associate,No
+S01834,11.4,72.8,74,Yes,Bachelor,No
+S01835,6.9,89.2,74.9,nan,Master,No
+S01836,11.8,75.2,61.7,Yes,Bachelor,No
+S01837,4.3,65.9,47.1,nan,High School,No
+S01838,10.5,60.4,67.7,No,Doctorate,Yes
+S01839,9.8,49.3,88.2,No,Master,No
+S01840,9,93.5,,No,High School,Yes
+S01841,9.4,89.6,89.9,Yes,Associate,Yes
+S01842,0.6,,90.6,Yes,Bachelor,Yes
+S01843,7.3,34.5,64.5,Yes,High School,No
+S01844,10.5,84.4,58,No,Doctorate,Yes
+S01845,10.8,56.9,,Yes,Master,Yes
+S01846,4.9,77.9,63.1,Yes,nan,No
+S01847,16.3,,50.4,No,Doctorate,Yes
+S01848,5.7,76.8,73.4,Yes,High School,No
+S01849,14.8,72.4,79.4,No,High School,No
+S01850,12.1,26.8,37.2,No,Doctorate,Yes
+S01851,6.8,107.4,91.8,No,Master,No
+S01852,18.9,68.5,,Yes,Bachelor,No
+S01853,4,69.8,60.6,No,Associate,Yes
+S01854,14.6,85.7,69.6,No,Master,No
+S01855,,74,52.4,Yes,Doctorate,No
+S01856,6.6,82.3,,Yes,High School,Yes
+S01857,,52.1,52.5,Yes,Associate,Yes
+S01858,8.7,72.2,65,Yes,Doctorate,nan
+S01859,11.4,36.8,56.3,nan,Master,No
+S01860,11.3,70.2,70.7,nan,Bachelor,No
+S01861,9.3,103.9,45.3,No,Master,Yes
+S01862,14.1,44.9,71.7,No,Associate,Yes
+S01863,14,68,48.1,Yes,Associate,Yes
+S01864,1.3,32.5,80.2,No,High School,Yes
+S01865,16.5,75.2,77.2,No,Master,No
+S01866,1.7,84.3,32.9,No,Master,No
+S01867,15.2,82.7,77.6,nan,Associate,Yes
+S01868,15.6,63,25.8,No,Associate,No
+S01869,4.5,32.1,47.4,No,Doctorate,No
+S01870,7.9,50.2,80.5,No,Master,No
+S01871,4.5,100.1,56.9,No,Associate,No
+S01872,8.9,92.6,88.4,No,Associate,No
+S01873,8.5,73.2,75.6,No,Master,Yes
+S01874,13.9,78.2,58.6,No,High School,nan
+S01875,16.6,54.4,56.4,Yes,High School,Yes
+S01876,17,100.8,87.5,Yes,Doctorate,nan
+S01877,7.2,60.6,57.8,No,Bachelor,No
+S01878,9,83.7,37.1,No,Master,Yes
+S01879,1.6,48.4,51.1,No,High School,No
+S01880,6,71.4,66.8,Yes,Associate,Yes
+S01881,14.8,100,53.2,Yes,Doctorate,Yes
+S01882,18.1,56.1,100.9,No,Doctorate,Yes
+S01883,3.8,90,55.3,No,Associate,Yes
+S01884,7,53.4,55.6,Yes,High School,Yes
+S01885,,57,50.2,Yes,Doctorate,Yes
+S01886,11.4,74.8,78.2,No,Doctorate,No
+S01887,6,94.4,60.8,No,nan,Yes
+S01888,12.1,69,77.2,No,Associate,No
+S01889,7.6,87.4,82.3,Yes,High School,No
+S01890,9.9,97.9,70.5,No,Associate,No
+S01891,12.7,59.6,69.6,Yes,Associate,Yes
+S01892,10,44.5,,No,Associate,Yes
+S01893,7.8,67.9,200,No,Bachelor,No
+S01894,9.5,100.5,42.6,Yes,Master,Yes
+S01895,9.6,58.7,66.1,No,nan,Yes
+S01896,8.1,95.3,99.6,Yes,High School,No
+S01897,8.7,69.7,56.5,Yes,High School,Yes
+S01898,18,,80.4,Yes,Master,Yes
+S01899,12.8,119.9,72.9,Yes,Master,No
+S01900,8.5,95.6,65.5,Yes,High School,nan
+S01901,13.5,42.1,61.4,No,High School,No
+S01902,8.3,26.9,58.5,No,Master,No
+S01903,15.9,76.2,58.3,No,High School,No
+S01904,11.8,93.1,74.1,No,Master,Yes
+S01905,9.5,85,77.9,No,Associate,No
+S01906,12.2,60.5,58.6,No,Doctorate,No
+S01907,2.1,45.3,58.4,Yes,Associate,No
+S01908,4.4,93.6,56.3,No,Master,No
+S01909,4,112.2,80,No,High School,No
+S01910,10.7,61.6,78.2,No,Master,No
+S01911,18.7,91.5,87.1,Yes,Bachelor,Yes
+S01912,21.2,127.1,52.8,Yes,Master,Yes
+S01913,13.2,71.2,55.7,Yes,Master,No
+S01914,12.5,71.6,89.8,No,Bachelor,Yes
+S01915,1,86.2,84.9,Yes,High School,No
+S01916,7.3,69.3,50.1,Yes,Bachelor,Yes
+S01917,6.1,101.8,51.6,No,Associate,Yes
+S01918,6.9,66.9,68.8,No,Bachelor,No
+S01919,9.2,74.4,83.6,Yes,Doctorate,Yes
+S01920,7.6,46.2,51.4,No,High School,No
+S01921,0.1,70.3,66.3,Yes,High School,No
+S01922,13.7,54.8,81.3,Yes,High School,Yes
+S01923,4.6,81.9,62,Yes,Master,Yes
+S01924,11.2,41.7,63.9,Yes,Doctorate,Yes
+S01925,20.4,94.6,86.3,No,Associate,Yes
+S01926,5.4,57.6,58.7,No,Master,No
+S01927,-2.7,110.7,84,No,Master,Yes
+S01928,8.6,102.4,62.8,Yes,Bachelor,No
+S01929,15.5,85.7,48.7,No,Master,No
+S01930,19.8,44.2,73.4,Yes,High School,No
+S01931,3.9,62.4,55.8,No,High School,No
+S01932,12.5,57.1,47.4,No,Master,Yes
+S01933,7.7,59.6,94.5,Yes,Master,No
+S01934,9.5,106.5,71.3,No,High School,No
+S01935,23.2,71.9,60.2,Yes,Bachelor,No
+S01936,2.5,61.8,60.5,Yes,High School,Yes
+S01937,11.3,60,88,Yes,Bachelor,No
+S01938,12.3,64.4,89.1,nan,Master,No
+S01939,15.4,85.7,56.8,No,Doctorate,No
+S01940,10.5,42.5,69,No,Bachelor,No
+S01941,11.5,77,59.5,No,Doctorate,No
+S01942,8,83.5,76.5,nan,Associate,Yes
+S01943,11.3,40.3,59.7,No,Associate,Yes
+S01944,8.3,46.6,36,nan,nan,No
+S01945,,,49.5,No,High School,No
+S01946,8.2,103.8,80.6,No,Doctorate,nan
+S01947,11.9,,54.2,Yes,Doctorate,No
+S01948,9.9,62.8,76.8,No,Associate,Yes
+S01949,15.6,103.2,70.6,No,Doctorate,No
+S01950,9.7,68.6,54.3,Yes,Bachelor,No
+S01951,1.1,68.4,62.7,Yes,Doctorate,No
+S01952,16.3,76.9,55.6,No,High School,No
+S01953,5.5,91.8,59.3,No,High School,Yes
+S01954,6.7,62.8,38.2,nan,Master,No
+S01955,7,67,63.3,Yes,High School,No
+S01956,16.9,50,56.3,No,High School,Yes
+S01957,-0.7,82,66.1,No,High School,Yes
+S01958,25.7,93.7,72.9,No,Bachelor,Yes
+S01959,15.3,94.9,74.3,Yes,High School,Yes
+S01960,11.1,47.7,,Yes,Bachelor,No
+S01961,9.7,,55.3,Yes,Associate,Yes
+S01962,11.4,99.9,62.7,Yes,Doctorate,No
+S01963,12.6,79.6,81.4,Yes,Bachelor,No
+S01964,,75.7,57.3,Yes,High School,Yes
+S01965,12.8,75.2,54.7,Yes,Associate,Yes
+S01966,10.4,85.8,48.5,No,Master,No
+S01967,9,80.7,72.6,Yes,Master,Yes
+S01968,9.2,63.5,60.6,Yes,Master,No
+S01969,9,92.6,49.9,No,High School,Yes
+S01970,15.7,,53,Yes,High School,Yes
+S01971,13,101.4,75,No,High School,No
+S01972,-4.7,57.1,67.2,No,High School,No
+S01973,13.3,86,55,Yes,High School,No
+S01974,11,71.7,73.6,No,Bachelor,Yes
+S01975,9.9,65.5,80.5,Yes,Master,No
+S01976,8.1,102.2,,No,High School,No
+S01977,15.6,89.9,68.1,No,High School,Yes
+S01978,14.7,73.8,90.2,No,Master,Yes
+S01979,6.1,109.9,84.9,Yes,Associate,Yes
+S01980,12,94.6,65.9,No,nan,Yes
+S01981,5.1,58.9,80.1,No,Bachelor,Yes
+S01982,3.1,29.8,74.8,Yes,Bachelor,Yes
+S01983,6.9,77.1,57,Yes,Doctorate,Yes
+S01984,14.3,102.7,89,No,Master,No
+S01985,14.8,87.2,90.3,Yes,Master,Yes
+S01986,12.6,106.5,83,Yes,Master,No
+S01987,13.6,63,74.5,No,High School,Yes
+S01988,12.6,,79.2,Yes,Doctorate,No
+S01989,6.8,73.1,,No,Associate,Yes
+S01990,12.2,79.8,81.4,No,Master,Yes
+S01991,14,90.3,45.7,Yes,Doctorate,No
+S01992,13.8,107.6,60.1,No,Master,Yes
+S01993,15.9,111.9,27.4,Yes,High School,Yes
+S01994,13.5,108.3,71,No,Master,Yes
+S01995,11.8,88.4,80.4,Yes,Doctorate,Yes
+S01996,15.4,68.2,89.7,Yes,High School,Yes
+S01997,9.9,79.5,61.8,No,Associate,Yes
+S01998,5.6,88.1,68.5,Yes,Associate,No
+S01999,9.2,77.7,64.8,No,Bachelor,No
+S02000,6.3,56.7,92.1,Yes,High School,Yes
+S02001,6.6,65.8,70,Yes,High School,No
+S02002,9.3,92.4,92.8,Yes,Doctorate,Yes
+S02003,6,70.1,83.7,Yes,Master,No
+S02004,,75.5,76.3,No,Doctorate,No
+S02005,0.5,73.4,56.6,No,High School,Yes
+S02006,11.1,57.2,48.7,No,nan,Yes
+S02007,10,71.6,66.3,Yes,Associate,Yes
+S02008,5.9,65.8,,Yes,High School,No
+S02009,13.3,61.2,47.5,Yes,Master,Yes
+S02010,14.7,53.8,81.2,No,Bachelor,No
+S02011,2,73,67.8,No,Associate,Yes
+S02012,6.2,87.4,73.8,No,Doctorate,Yes
+S02013,,97.4,90.5,No,Bachelor,No
+S02014,5.3,47.1,53.4,Yes,High School,Yes
+S02015,14.1,107.1,33.8,nan,High School,nan
+S02016,9,80.9,56.2,Yes,Associate,Yes
+S02017,8.7,52.5,90.9,Yes,Doctorate,Yes
+S02018,0,66.9,65.1,No,High School,No
+S02019,13.2,37.5,62.2,Yes,Master,Yes
+S02020,3.8,42.6,57.2,Yes,High School,No
+S02021,10.3,109.4,64.9,Yes,High School,Yes
+S02022,11.4,61,56.4,Yes,Associate,No
+S02023,16.8,85.7,,No,Doctorate,No
+S02024,3.5,72.8,,Yes,Master,Yes
+S02025,-5.1,75.4,103.9,No,Bachelor,No
+S02026,10.9,82.4,52.4,nan,Master,No
+S02027,19,33.3,57,No,Associate,No
+S02028,16.2,,56.6,No,Bachelor,No
+S02029,11,73,88.9,Yes,High School,No
+S02030,7.5,64.9,76.4,No,Bachelor,No
+S02031,14,84.4,61.1,Yes,Bachelor,Yes
+S02032,5.1,,57.5,Yes,Bachelor,Yes
+S02033,12.4,79.2,88.4,Yes,High School,No
+S02034,12.5,71.7,,Yes,High School,No
+S02035,,89.2,,Yes,Doctorate,Yes
+S02036,23.8,70.7,32.6,Yes,High School,Yes
+S02037,12,54.4,76.9,Yes,High School,Yes
+S02038,7.5,82.2,64.9,No,Doctorate,No
+S02039,9.9,69.6,66.6,No,Master,Yes
+S02040,1.2,,66.5,Yes,Doctorate,No
+S02041,6.5,79,79.1,No,Bachelor,No
+S02042,8,,31.5,Yes,Doctorate,No
+S02043,7.4,81.9,47.1,Yes,Master,Yes
+S02044,10.8,,94.4,No,Associate,Yes
+S02045,5.9,50.9,46.6,Yes,Associate,Yes
+S02046,15.6,98.6,53.6,Yes,Bachelor,No
+S02047,10,91.9,83.8,Yes,Doctorate,Yes
+S02048,10,74.9,65.8,Yes,Bachelor,No
+S02049,8.4,83.8,65.9,Yes,Master,Yes
+S02050,10.8,91.2,88.9,No,Doctorate,No
+S02051,14.1,74.8,56.4,Yes,Master,Yes
+S02052,5.7,50.8,,No,nan,No
+S02053,6.7,81,76.4,nan,nan,No
+S02054,8.5,95,67.4,Yes,Bachelor,Yes
+S02055,3.3,86.9,80.4,Yes,High School,No
+S02056,5.9,76.2,55.3,Yes,High School,Yes
+S02057,7.6,86.3,68,No,Doctorate,No
+S02058,14.4,70.5,63.9,Yes,Bachelor,No
+S02059,11.3,95.9,59.1,Yes,Associate,No
+S02060,11,101.9,45.8,Yes,Doctorate,No
+S02061,,49.1,58.7,No,High School,Yes
+S02062,9.3,97.3,56.9,No,Associate,No
+S02063,12,119.7,83.8,No,Bachelor,Yes
+S02064,9.5,85.5,73.5,No,Doctorate,Yes
+S02065,11.3,94.7,71.7,Yes,Doctorate,No
+S02066,7.1,62.1,62.3,Yes,nan,Yes
+S02067,-2.2,64.9,51.6,No,High School,Yes
+S02068,9.3,70.8,,Yes,Doctorate,No
+S02069,,67,86.3,No,Master,Yes
+S02070,14.6,48.8,52.1,No,High School,No
+S02071,14.8,71.5,71.8,No,Master,nan
+S02072,16.2,91.7,58.2,Yes,Doctorate,Yes
+S02073,10.4,49,,Yes,nan,Yes
+S02074,11,78.6,62.7,Yes,Master,No
+S02075,6.9,78,71.7,No,Bachelor,Yes
+S02076,8.4,69,62.7,No,Associate,Yes
+S02077,13.1,84.9,57.5,No,Master,Yes
+S02078,16,83.1,41.3,Yes,Bachelor,Yes
+S02079,9.3,67.6,68.3,Yes,Bachelor,Yes
+S02080,7.7,96.2,74.2,No,High School,nan
+S02081,10,86.2,65.9,Yes,Doctorate,Yes
+S02082,13,106.5,,No,Associate,No
+S02083,2.8,73.7,87.3,No,Associate,Yes
+S02084,-1.5,68.6,89.3,No,High School,Yes
+S02085,,70.8,81.1,No,Bachelor,Yes
+S02086,3.9,,70,No,Associate,nan
+S02087,7.5,72,66.5,No,Associate,No
+S02088,9.3,73.2,49.2,No,Doctorate,No
+S02089,7.7,114.2,36.4,No,Associate,No
+S02090,17.3,48.1,85.6,No,Associate,Yes
+S02091,11.6,82.1,66.7,No,Associate,No
+S02092,,73.8,115.9,Yes,Doctorate,No
+S02093,13.1,70,56.2,No,High School,No
+S02094,4.3,55.9,71.4,Yes,Doctorate,No
+S02095,15.2,61.7,80.3,No,Bachelor,No
+S02096,9.6,66.8,55.2,No,Doctorate,Yes
+S02097,13.4,84.9,61,No,Associate,No
+S02098,4.6,92,62.1,No,Doctorate,Yes
+S02099,2.2,39.4,58.9,Yes,Doctorate,No
+S02100,14.1,51,71,No,Bachelor,Yes
+S02101,11.9,86,65.8,No,High School,Yes
+S02102,5.5,87.6,34.5,Yes,Associate,Yes
+S02103,5.7,45.7,66.7,No,Associate,No
+S02104,15.6,92.5,70.6,Yes,Master,No
+S02105,4.1,74.7,64.4,Yes,Master,Yes
+S02106,18.2,89.9,89.7,Yes,Doctorate,No
+S02107,5.5,58,70.2,Yes,Master,No
+S02108,13.2,47.2,65.4,Yes,Associate,Yes
+S02109,8.4,68.8,78.6,No,High School,Yes
+S02110,13,69.7,99,Yes,Bachelor,No
+S02111,7.3,68.6,62.9,No,Bachelor,Yes
+S02112,9.2,67.2,80.8,Yes,Doctorate,No
+S02113,10.2,108.9,92.6,No,Master,No
+S02114,5,41,61.5,No,Associate,No
+S02115,13.7,58.1,47.4,Yes,Associate,Yes
+S02116,7.4,66.6,71.6,No,Bachelor,No
+S02117,,75.5,85.2,nan,Master,Yes
+S02118,5,89.2,60.7,No,Associate,Yes
+S02119,-2.8,92.3,81.4,No,Doctorate,No
+S02120,9,96.5,52.1,Yes,Associate,Yes
+S02121,22.1,84.6,61.3,Yes,Associate,No
+S02122,13.9,40.4,63.6,No,Bachelor,No
+S02123,9.9,41.7,62.9,No,Associate,Yes
+S02124,8.7,97.9,52.1,No,Doctorate,No
+S02125,10.1,96.7,60,No,Associate,No
+S02126,12.7,87.7,35.5,Yes,High School,No
+S02127,4.1,58.6,75.4,No,Associate,No
+S02128,15.6,68.5,65.5,Yes,nan,Yes
+S02129,13.6,67,82.2,No,Bachelor,No
+S02130,13.6,54.5,63.7,No,High School,No
+S02131,12.2,80.2,38,No,High School,No
+S02132,10.1,118.1,69.8,nan,High School,No
+S02133,13.4,65.1,,No,Associate,No
+S02134,13,100.9,,No,nan,Yes
+S02135,8.2,57.3,61.8,Yes,Associate,Yes
+S02136,7.1,44.3,95.2,Yes,Bachelor,Yes
+S02137,10.5,94.7,51.6,Yes,High School,Yes
+S02138,17.7,70.6,,Yes,Doctorate,No
+S02139,3.8,100.4,74,No,Associate,No
+S02140,2.7,104.4,60,Yes,High School,No
+S02141,10.8,69.4,45,Yes,Bachelor,No
+S02142,10.3,101.9,62,nan,Bachelor,Yes
+S02143,10.9,57.5,37.7,Yes,Associate,nan
+S02144,11.2,57.2,54.5,Yes,Bachelor,No
+S02145,8.9,96.4,62.3,No,Doctorate,Yes
+S02146,17.4,44,80,Yes,Bachelor,No
+S02147,2,75,69.2,No,Doctorate,No
+S02148,5.9,100,58.9,Yes,Doctorate,Yes
+S02149,9.5,101.3,58,nan,Associate,Yes
+S02150,1.8,66.3,56.7,No,High School,Yes
+S02151,9.1,95.2,78.8,No,Master,Yes
+S02152,18.3,52.5,,No,Master,Yes
+S02153,,61.7,,No,Master,Yes
+S02154,11.2,79.6,42.7,No,Bachelor,Yes
+S02155,,,73.8,No,Doctorate,No
+S02156,6.9,54,87.7,No,Associate,No
+S02157,8.1,112.2,73.6,No,High School,Yes
+S02158,8.4,37.5,74.7,Yes,Doctorate,No
+S02159,16.4,76.1,57.1,Yes,Doctorate,Yes
+S02160,12.8,78.9,72.3,No,Doctorate,Yes
+S02161,4.4,40.1,53.7,Yes,High School,No
+S02162,11.2,101.5,56.4,No,High School,No
+S02163,12.5,60.2,64.4,No,Associate,No
+S02164,15.7,77,65.6,Yes,High School,Yes
+S02165,17.9,81.6,91.9,Yes,Doctorate,No
+S02166,4.9,45.9,78,No,Associate,No
+S02167,5.9,,66.7,Yes,High School,No
+S02168,3.7,106.3,90.6,Yes,High School,No
+S02169,8.8,,101,Yes,Doctorate,Yes
+S02170,12.3,21.1,65.3,Yes,High School,Yes
+S02171,14.9,69,70.7,Yes,Doctorate,Yes
+S02172,,74.3,46.4,No,Master,No
+S02173,8.4,,67.5,No,High School,Yes
+S02174,10.8,,54.8,No,Doctorate,nan
+S02175,5.8,74.4,36.7,No,High School,No
+S02176,20.4,58.3,79.8,Yes,Bachelor,Yes
+S02177,2,79.4,66.6,Yes,Master,Yes
+S02178,10.9,85.1,52,Yes,Doctorate,No
+S02179,20.1,83,37.6,No,High School,Yes
+S02180,10,103.1,55.9,Yes,High School,No
+S02181,9,118.8,54.9,Yes,High School,No
+S02182,8.2,52.3,63.3,No,Doctorate,Yes
+S02183,9.1,67.4,38.9,No,Associate,Yes
+S02184,16.9,89.9,71.4,No,High School,Yes
+S02185,-1.1,72.5,74.6,No,Master,Yes
+S02186,17.7,20.5,45.5,No,Associate,No
+S02187,,71.1,39.6,Yes,Bachelor,Yes
+S02188,8.7,99.7,80.2,Yes,Master,Yes
+S02189,7.9,47.1,62.8,Yes,Master,Yes
+S02190,12.9,79.4,74.6,Yes,Bachelor,No
+S02191,2,36.9,66.7,No,Master,No
+S02192,12.3,92.4,63.7,Yes,Doctorate,No
+S02193,20.1,,80.5,No,nan,No
+S02194,3.2,63.6,77.6,No,Master,No
+S02195,10.9,66.6,70.8,Yes,Bachelor,Yes
+S02196,6.7,45,,No,Doctorate,Yes
+S02197,12.1,95.2,58.5,No,Master,Yes
+S02198,10.1,59,73.3,Yes,Associate,No
+S02199,6.8,85,88.3,No,nan,Yes
+S02200,12.4,55.8,80.4,Yes,Master,nan
+S02201,19,119,36.9,Yes,High School,No
+S02202,9,106.2,71.8,No,Bachelor,Yes
+S02203,13.6,116.5,73,nan,Doctorate,Yes
+S02204,3.5,,82,No,Associate,No
+S02205,5.2,62.3,83.6,No,High School,No
+S02206,12.4,57.3,72.4,No,High School,Yes
+S02207,17.4,115.5,46.4,No,High School,No
+S02208,11.8,72.2,63.3,nan,Doctorate,Yes
+S02209,8.4,91.7,53.1,No,Master,No
+S02210,,62.6,47.5,No,Associate,No
+S02211,,62.9,86,Yes,Associate,Yes
+S02212,13,91.6,58,No,Master,No
+S02213,14.4,35.6,94.8,No,Bachelor,Yes
+S02214,7.7,,59.2,Yes,High School,No
+S02215,7.6,,54.3,Yes,Associate,Yes
+S02216,11.3,64.4,74,No,Master,Yes
+S02217,7.8,75.5,63.8,Yes,Bachelor,No
+S02218,9.7,78.6,69.2,No,Associate,Yes
+S02219,,79.7,56.9,Yes,Master,Yes
+S02220,8.8,88.8,56.9,No,Doctorate,No
+S02221,8.2,58.7,57.7,Yes,Doctorate,Yes
+S02222,6.8,129,49.4,Yes,High School,No
+S02223,13.7,70.9,79.5,Yes,Master,Yes
+S02224,9.1,72.4,68.1,Yes,Associate,No
+S02225,6.8,113.9,67.3,Yes,High School,Yes
+S02226,16.6,,75,Yes,Doctorate,No
+S02227,17.1,113.7,70.4,Yes,Bachelor,Yes
+S02228,7,76.9,99,Yes,Bachelor,Yes
+S02229,0.7,64.4,71.4,Yes,Bachelor,No
+S02230,15,52.6,34.2,Yes,Associate,Yes
+S02231,6.6,49.6,57.6,Yes,Associate,Yes
+S02232,14,,51,nan,Doctorate,Yes
+S02233,0.1,80.6,72,No,High School,Yes
+S02234,14.5,87.4,58.8,No,High School,Yes
+S02235,3.9,80.3,72.5,No,Doctorate,Yes
+S02236,13.7,64.8,54.7,No,Master,No
+S02237,10.1,101.8,67.9,nan,Doctorate,Yes
+S02238,5.2,128.5,57.1,Yes,Master,No
+S02239,8,104.9,59.9,No,Associate,Yes
+S02240,13.4,67.8,68.4,No,Master,No
+S02241,10.5,85,71.8,Yes,Doctorate,Yes
+S02242,12.9,86.3,86.4,No,Doctorate,nan
+S02243,19.9,107.1,82,No,Master,Yes
+S02244,2.2,68.2,79.1,Yes,nan,nan
+S02245,18.1,55.7,71.5,No,Bachelor,nan
+S02246,10.5,97.7,57.7,No,High School,Yes
+S02247,5.5,83.1,74.3,No,Doctorate,No
+S02248,3.3,52.8,82.9,No,Bachelor,No
+S02249,9.1,89.1,,Yes,nan,nan
+S02250,14.6,111.8,65.2,Yes,Master,Yes
+S02251,9.4,61.1,59.8,No,Associate,No
+S02252,17.6,57.2,76.9,Yes,Associate,Yes
+S02253,2.7,75.6,28.5,Yes,Associate,nan
+S02254,9.9,88.6,89,No,Doctorate,Yes
+S02255,3.7,73.5,83.4,Yes,Doctorate,Yes
+S02256,11.8,97.7,60.8,No,nan,nan
+S02257,14.4,80.2,60,Yes,High School,No
+S02258,,95.2,96.1,Yes,Bachelor,Yes
+S02259,-3,60.6,49.5,Yes,Associate,Yes
+S02260,11,50.4,61.1,No,High School,Yes
+S02261,12.2,68.2,91.3,No,Associate,Yes
+S02262,12,48.1,48.9,No,Master,Yes
+S02263,16.2,83.2,67.4,Yes,Master,No
+S02264,4.6,34.7,61.4,No,Associate,Yes
+S02265,13.4,,95.9,No,Doctorate,Yes
+S02266,16,,56.9,Yes,Associate,Yes
+S02267,1.1,54.1,44.6,Yes,Associate,Yes
+S02268,11.6,68.9,68.6,Yes,Doctorate,No
+S02269,,75.1,56.9,No,Master,No
+S02270,9.6,100.4,74,Yes,Master,Yes
+S02271,11.7,54.2,71.5,No,Master,Yes
+S02272,7.6,82.1,47.5,Yes,Master,Yes
+S02273,6.6,86.1,92.6,Yes,Bachelor,No
+S02274,10.2,74.6,55.8,Yes,High School,No
+S02275,4.6,65,57.4,No,Master,No
+S02276,4.6,52.2,73.7,No,Associate,Yes
+S02277,13.4,113,89.5,No,nan,Yes
+S02278,4.3,76.5,45.7,Yes,Associate,No
+S02279,13.3,68.7,58.1,No,Associate,No
+S02280,12.3,117.4,79.4,Yes,Associate,Yes
+S02281,1.4,79.4,56.4,Yes,Master,Yes
+S02282,6.6,125.9,67.4,Yes,Master,Yes
+S02283,16,,58.8,Yes,Associate,No
+S02284,5.1,70.3,72.4,Yes,Associate,No
+S02285,7.7,47.6,46.3,No,nan,Yes
+S02286,12.3,72.6,69.7,Yes,High School,No
+S02287,13.9,72.5,72.3,No,High School,No
+S02288,8.7,65.8,75.2,No,Associate,No
+S02289,7,76.1,57.1,No,nan,Yes
+S02290,17.1,66.8,86.7,Yes,High School,Yes
+S02291,18.7,72.8,33.5,No,High School,Yes
+S02292,14.9,59.9,55.1,Yes,Associate,No
+S02293,10.4,103.9,101.7,Yes,Bachelor,Yes
+S02294,6,52.8,65.4,Yes,High School,Yes
+S02295,5.8,150,81.9,No,Bachelor,No
+S02296,12.6,51.1,67.8,No,High School,No
+S02297,12.1,58.3,91.1,No,Doctorate,Yes
+S02298,17,60.4,62.1,Yes,Associate,No
+S02299,13.3,72.4,68.4,No,nan,No
+S02300,2.5,78.5,78.1,No,nan,nan
+S02301,15.3,52.9,88,No,Doctorate,No
+S02302,5,,,No,Associate,No
+S02303,8.1,55.2,72.8,Yes,Doctorate,Yes
+S02304,11.3,54.3,52.2,No,Master,No
+S02305,20,97.7,64.2,Yes,nan,Yes
+S02306,25.5,47.2,57,Yes,Doctorate,No
+S02307,13,76.5,31.4,Yes,High School,Yes
+S02308,,109,80.9,Yes,nan,Yes
+S02309,12.7,99.1,,Yes,High School,No
+S02310,14.4,83.5,64,No,Associate,Yes
+S02311,8.4,74.7,63.4,Yes,Associate,No
+S02312,19,89.7,53.1,Yes,Bachelor,Yes
+S02313,11.2,82.4,74.6,Yes,Master,No
+S02314,12.5,103.5,59.5,Yes,nan,Yes
+S02315,13.3,72.3,54.3,Yes,Doctorate,Yes
+S02316,12.1,95,43.2,Yes,Doctorate,nan
+S02317,14.2,68.5,51.1,No,Doctorate,Yes
+S02318,6.9,112.9,71.3,Yes,Associate,No
+S02319,7.2,71.8,35,Yes,Doctorate,No
+S02320,4.5,42.6,,No,Associate,No
+S02321,-1,76.6,62.7,No,High School,Yes
+S02322,13.9,90.3,52,Yes,High School,No
+S02323,12.3,107.6,73.9,Yes,High School,No
+S02324,18.4,55.1,58.7,Yes,Associate,Yes
+S02325,10,40.1,78.4,Yes,Doctorate,Yes
+S02326,13.3,84.9,49.1,No,nan,No
+S02327,4.5,84.3,50.1,No,High School,Yes
+S02328,8.1,46.8,73.9,No,High School,No
+S02329,13.5,68.4,83,No,Master,Yes
+S02330,14.2,69.3,67.9,nan,Associate,No
+S02331,8.5,91.5,68.5,Yes,Master,No
+S02332,9.6,66.7,52.5,No,Master,No
+S02333,,66.3,57.3,No,Master,No
+S02334,8.2,77.3,55.1,No,Associate,No
+S02335,14.5,47.4,84.4,No,Master,No
+S02336,12.9,113,,No,High School,nan
+S02337,12.5,93.7,72.8,No,Bachelor,No
+S02338,10.2,61,95.2,Yes,Bachelor,No
+S02339,,52.6,74.3,nan,High School,Yes
+S02340,6.7,54.2,82.7,No,Doctorate,Yes
+S02341,13.5,86.7,,No,Doctorate,Yes
+S02342,12.1,54.8,62.6,Yes,High School,Yes
+S02343,12.5,70,,Yes,High School,No
+S02344,7.4,41.2,51,Yes,Doctorate,Yes
+S02345,-0.8,85.8,58.4,No,Master,Yes
+S02346,15.5,86.6,69.9,Yes,High School,No
+S02347,7.6,71.3,56,Yes,Doctorate,No
+S02348,5.7,78.9,73.3,No,Associate,No
+S02349,13.5,90.9,53.9,Yes,Associate,Yes
+S02350,8,78.3,53.2,No,Master,Yes
+S02351,15.3,90.6,65.2,No,Associate,No
+S02352,13.1,51.6,34.4,Yes,Associate,No
+S02353,,82.6,81.2,No,Master,Yes
+S02354,3.2,,75.6,Yes,Doctorate,No
+S02355,16.1,99,77.2,Yes,nan,No
+S02356,11.3,75.6,76.2,No,High School,Yes
+S02357,,73.1,63.3,Yes,High School,Yes
+S02358,10.7,63.9,68.7,nan,Bachelor,No
+S02359,1.1,104.8,70.8,No,Doctorate,Yes
+S02360,12,27.9,43.2,Yes,Master,Yes
+S02361,4.9,,68,No,Associate,No
+S02362,3.2,74.6,59.3,Yes,Master,Yes
+S02363,2.4,71.3,92.7,No,High School,Yes
+S02364,15.6,68.4,62.1,No,Bachelor,No
+S02365,6.9,,63.1,nan,Master,No
+S02366,17.7,,46.7,No,Associate,nan
+S02367,7.3,59.1,59.1,Yes,High School,No
+S02368,1.5,,33.3,No,Associate,Yes
+S02369,4.4,82,92.9,No,Master,Yes
+S02370,16.2,55.9,73.8,nan,Associate,No
+S02371,9.2,,59.5,No,Master,No
+S02372,7.3,82.2,72.6,No,Doctorate,No
+S02373,10.8,59,50.6,No,Associate,Yes
+S02374,12.5,51.2,62.3,No,High School,Yes
+S02375,15.6,58.8,48.4,Yes,High School,No
+S02376,17.2,77.7,42,No,Master,No
+S02377,8.2,73.5,76.5,No,High School,No
+S02378,3.4,102.9,63.4,No,nan,Yes
+S02379,7.9,67.7,39.1,No,High School,No
+S02380,,57.2,52.6,No,Associate,Yes
+S02381,5.2,88.1,84.6,No,Doctorate,Yes
+S02382,5.2,55.4,54.1,No,Master,No
+S02383,,59.2,74.3,nan,Bachelor,nan
+S02384,9.8,59.4,54,Yes,Bachelor,No
+S02385,10.2,15.1,68.7,Yes,Bachelor,No
+S02386,6.2,86.3,72.9,Yes,Bachelor,Yes
+S02387,8.8,93.8,200,No,Bachelor,No
+S02388,5.4,93.3,63,No,Doctorate,Yes
+S02389,14.5,112.7,69.6,Yes,Bachelor,No
+S02390,15.2,105.1,56.5,Yes,Bachelor,nan
+S02391,0.8,68.3,61.9,No,Doctorate,Yes
+S02392,5.4,97.2,50.8,No,High School,Yes
+S02393,2.5,73,66.6,Yes,Associate,No
+S02394,6.7,66.5,81.1,Yes,Master,Yes
+S02395,9.6,59.9,47.5,No,Doctorate,Yes
+S02396,2.8,69.6,54.4,Yes,Master,No
+S02397,5.4,81.6,34.3,Yes,Associate,No
+S02398,5,,72.7,Yes,Bachelor,Yes
+S02399,11,89.6,41,No,Doctorate,Yes
+S02400,10.3,59.6,72.5,Yes,Bachelor,No
+S02401,6.4,54.1,73.6,nan,Doctorate,No
+S02402,10.9,86.4,78.6,No,Associate,No
+S02403,7.3,93,70.5,No,Bachelor,No
+S02404,,99.5,42.4,Yes,Doctorate,Yes
+S02405,18.4,69.6,63,No,High School,No
+S02406,16.7,84.4,67.9,Yes,Associate,No
+S02407,3.5,92.1,,Yes,High School,No
+S02408,14.1,48,73.6,Yes,Associate,Yes
+S02409,14.1,80.6,58.6,Yes,Master,nan
+S02410,4.3,93.1,63.4,nan,High School,No
+S02411,14.1,85.2,63.5,Yes,nan,Yes
+S02412,17.7,73.4,46,Yes,Doctorate,No
+S02413,4.4,127.2,50.5,Yes,Master,Yes
+S02414,5.4,113.6,63.9,No,nan,No
+S02415,15.1,75.2,52.4,No,Master,No
+S02416,11.4,71.2,43.1,Yes,High School,No
+S02417,12.8,89,42.2,No,Doctorate,No
+S02418,11.7,73.8,75.4,No,Associate,No
+S02419,12,100.4,70.3,No,Bachelor,No
+S02420,3.4,49.7,67.2,Yes,Master,Yes
+S02421,15.2,70.2,60.1,No,High School,No
+S02422,15.8,88.7,,No,Bachelor,Yes
+S02423,8.9,95.1,34.8,Yes,nan,Yes
+S02424,9.8,45.4,,No,nan,Yes
+S02425,2.3,55.9,58.9,No,High School,Yes
+S02426,12.6,41.5,74.3,No,Master,Yes
+S02427,12.9,57.5,,Yes,Master,Yes
+S02428,9.7,49.5,89.7,No,Master,Yes
+S02429,15.6,85.8,67.8,No,Master,No
+S02430,8.3,79.6,63.2,No,Doctorate,Yes
+S02431,12.8,71.9,49.7,nan,Associate,Yes
+S02432,4.9,75.5,67.5,No,Bachelor,Yes
+S02433,9.9,98.9,74.2,nan,Bachelor,No
+S02434,9.1,54.2,31.4,No,High School,No
+S02435,11.1,36.4,63,Yes,Bachelor,Yes
+S02436,,89.2,63.2,No,High School,No
+S02437,9.3,67.2,71.8,Yes,Doctorate,No
+S02438,,54.6,39.8,Yes,Bachelor,Yes
+S02439,7.8,86.1,77,Yes,Doctorate,Yes
+S02440,2,35.6,76.1,No,Bachelor,No
+S02441,,,76.6,No,Master,Yes
+S02442,16.9,27.2,55.1,No,Master,Yes
+S02443,3.5,80.2,,Yes,Associate,Yes
+S02444,13.4,106.5,52.8,Yes,Doctorate,Yes
+S02445,7.5,63.5,33.3,Yes,Doctorate,No
+S02446,11.3,59.2,69.7,No,Bachelor,Yes
+S02447,11.5,110.7,,No,nan,Yes
+S02448,8.8,87.5,83.3,Yes,Doctorate,Yes
+S02449,6.1,122.6,49.5,Yes,Master,Yes
+S02450,6.5,78.2,59.8,Yes,High School,nan
+S02451,5.4,79.5,58.5,No,Master,No
+S02452,,103.9,77,Yes,Associate,No
+S02453,9.7,72,48.7,Yes,Associate,No
+S02454,6.4,79.9,84.1,No,Master,Yes
+S02455,13.4,26.6,54,No,High School,No
+S02456,17.4,109.8,58.4,Yes,Doctorate,No
+S02457,7.1,82.8,65.6,No,Associate,Yes
+S02458,,72.9,,Yes,Bachelor,No
+S02459,12.5,93.1,70.9,Yes,nan,No
+S02460,12.4,51.4,68.9,Yes,Associate,Yes
+S02461,10.4,64,55.7,No,High School,No
+S02462,13.7,86.1,69.3,No,Associate,No
+S02463,,75.9,69.7,Yes,Doctorate,Yes
+S02464,3.8,83.9,73.6,Yes,Bachelor,No
+S02465,14.3,80,81.5,Yes,nan,No
+S02466,14.4,87.6,71.3,No,High School,Yes
+S02467,6.2,48.6,72.3,No,High School,No
+S02468,10.2,100.6,48.5,No,Bachelor,Yes
+S02469,13.4,65.3,42,No,Master,No
+S02470,9,76.2,56.7,No,Doctorate,No
+S02471,15.4,63,69.9,No,Master,No
+S02472,21.8,69.3,71.2,No,High School,Yes
+S02473,,79.6,27.1,Yes,Associate,Yes
+S02474,3.1,89.7,,No,Master,Yes
+S02475,11.5,93,81.9,Yes,Associate,No
+S02476,13.6,83.7,98.9,No,Bachelor,Yes
+S02477,8.8,63.1,86.6,No,nan,No
+S02478,17.3,82.4,57.2,No,Bachelor,Yes
+S02479,3.3,79.8,56.3,Yes,High School,Yes
+S02480,13.5,76.2,72.4,No,Associate,No
+S02481,7,85.7,77.1,No,Associate,No
+S02482,18.6,49.5,81.9,Yes,nan,Yes
+S02483,20,34.5,74,No,Bachelor,No
+S02484,6.2,98.8,46.6,Yes,Master,Yes
+S02485,7.3,72.4,44.1,Yes,High School,Yes
+S02486,14.3,83.3,86.9,Yes,High School,No
+S02487,8.1,57.6,62.5,Yes,Doctorate,Yes
+S02488,,100.2,50.5,Yes,nan,No
+S02489,10.1,82,48,Yes,Master,Yes
+S02490,0.4,71.4,56.9,No,Bachelor,Yes
+S02491,9.9,80.7,88.9,Yes,High School,No
+S02492,6.6,40.2,61.3,Yes,High School,No
+S02493,7.5,82.5,75.8,Yes,Bachelor,Yes
+S02494,,104.7,70.2,No,nan,nan
+S02495,3.7,81.3,64.1,Yes,Master,No
+S02496,14.1,78.7,35.4,Yes,Associate,Yes
+S02497,8.6,,77.6,Yes,Associate,Yes
+S02498,8.6,96.7,53.9,No,Doctorate,No
+S02499,14,99.6,40.2,No,Master,No
+S02500,11.7,66.4,37.3,Yes,Bachelor,No
+S02501,12.9,82.2,73.8,No,Doctorate,No
+S02502,14.8,79.6,77.1,No,nan,Yes
+S02503,8.3,83,30.7,Yes,Associate,No
+S02504,6.9,59.5,57.2,Yes,Bachelor,Yes
+S02505,,97.9,70.5,Yes,Master,Yes
+S02506,,86.3,67.3,No,High School,No
+S02507,,99,57.3,Yes,Bachelor,No
+S02508,16.2,52.7,63.7,No,Bachelor,Yes
+S02509,3.2,53.9,79.2,Yes,Doctorate,No
+S02510,3.4,116.2,,No,High School,No
+S02511,12.4,97.9,74.7,No,Associate,nan
+S02512,12.7,58.7,58.4,Yes,Bachelor,Yes
+S02513,12.7,92.4,45.9,Yes,Doctorate,Yes
+S02514,8.7,65.7,68.6,No,Associate,nan
+S02515,9.4,41,77,nan,Bachelor,Yes
+S02516,11.6,33,54.8,No,Doctorate,Yes
+S02517,10.4,74.6,68.5,No,Master,No
+S02518,,106.2,65,No,Associate,No
+S02519,8.9,105.4,,Yes,Associate,Yes
+S02520,5.7,100.2,62.6,No,Doctorate,Yes
+S02521,10.9,91.6,67.6,No,Doctorate,No
+S02522,24.9,81.3,58,Yes,Doctorate,No
+S02523,11.8,98,81.4,Yes,nan,Yes
+S02524,8.4,34.8,46.3,No,Bachelor,No
+S02525,14.6,94.8,97.3,Yes,Bachelor,No
+S02526,12.4,52.6,64.9,No,High School,No
+S02527,12.1,56.7,62.1,No,Bachelor,No
+S02528,13,88.9,78.7,No,Master,Yes
+S02529,20.3,93.6,42.6,No,Bachelor,Yes
+S02530,4.3,62.8,99.2,Yes,Doctorate,Yes
+S02531,12.4,87.9,54.8,Yes,Doctorate,No
+S02532,5.4,86.3,78.3,No,nan,Yes
+S02533,12.8,,65,Yes,Bachelor,No
+S02534,5.4,78.1,,No,Associate,Yes
+S02535,7.9,116.6,80.3,nan,Associate,Yes
+S02536,8.5,69.4,72.9,No,Bachelor,No
+S02537,14.9,70.1,110.8,No,Bachelor,No
+S02538,14.6,78,70.8,Yes,High School,Yes
+S02539,,71.3,55.5,Yes,Doctorate,nan
+S02540,10.3,90.8,37.2,Yes,Master,Yes
+S02541,6.5,104.4,53.8,No,Associate,Yes
+S02542,3.7,70.1,68.8,Yes,Doctorate,Yes
+S02543,8.9,57.9,59.4,No,Bachelor,No
+S02544,,114.5,,No,Master,No
+S02545,22.1,77.4,70.4,No,High School,No
+S02546,12.2,40.9,46.3,No,High School,Yes
+S02547,3.1,112.2,,Yes,Bachelor,Yes
+S02548,7.2,97.5,52,Yes,Doctorate,No
+S02549,,,,Yes,Associate,Yes
+S02550,20.4,103.7,71.5,Yes,Master,No
+S02551,2.1,127.9,56,Yes,Bachelor,No
+S02552,0.6,54.3,40.4,Yes,Master,Yes
+S02553,,59.1,107.2,No,Doctorate,No
+S02554,11.9,65.2,69.8,nan,Master,No
+S02555,5.7,64.6,69.8,Yes,Associate,Yes
+S02556,12.7,,36.9,Yes,Master,No
+S02557,-3.2,65.2,75.9,Yes,High School,No
+S02558,10,51.2,81,No,nan,Yes
+S02559,,57.5,,No,Bachelor,nan
+S02560,14.6,69.1,67,Yes,Doctorate,No
+S02561,4.9,97.9,67,Yes,Associate,Yes
+S02562,10.4,63.5,51.7,Yes,High School,No
+S02563,5.4,91.2,54.5,Yes,High School,Yes
+S02564,11.3,48.6,61.5,No,Bachelor,No
+S02565,5.5,11,81.5,No,Master,No
+S02566,8,72.3,,No,Doctorate,No
+S02567,5,62.8,53.9,No,Bachelor,Yes
+S02568,13.3,57.4,55.3,Yes,Bachelor,Yes
+S02569,14.3,55,32.6,Yes,High School,Yes
+S02570,8.8,60.8,71.7,No,Bachelor,No
+S02571,10.2,55.3,61.9,No,Master,Yes
+S02572,2.8,57.1,67.8,No,High School,No
+S02573,8.5,47.8,,Yes,Master,nan
+S02574,9.7,32.4,58.3,nan,Associate,No
+S02575,23.1,,68.2,nan,Associate,No
+S02576,,124.2,55.5,No,High School,Yes
+S02577,17.3,73.7,62.5,No,Doctorate,Yes
+S02578,15,105.5,50.4,Yes,Bachelor,No
+S02579,11.4,71.4,48.5,Yes,Bachelor,Yes
+S02580,18.8,72.1,37.9,No,High School,Yes
+S02581,11.9,81.1,48.8,No,Bachelor,Yes
+S02582,11.9,87.8,68.5,Yes,Associate,Yes
+S02583,,50.1,60.3,No,Doctorate,Yes
+S02584,16.1,67.4,61.7,No,nan,No
+S02585,15.5,81.1,58.2,No,Master,No
+S02586,,36.3,67.3,No,Bachelor,No
+S02587,3.4,100.9,66.4,No,Bachelor,No
+S02588,9,96.3,65.5,Yes,Associate,Yes
+S02589,6,33,60.1,Yes,Doctorate,No
+S02590,9.7,57.4,75.9,No,Master,No
+S02591,16.2,77.1,34.9,No,Associate,Yes
+S02592,7.7,91.8,53.5,No,Bachelor,Yes
+S02593,9.8,105.5,53,Yes,Master,Yes
+S02594,10.3,62.3,74.7,No,Bachelor,No
+S02595,14.2,121.8,56.9,Yes,Master,No
+S02596,-1.2,74,50.4,Yes,Associate,Yes
+S02597,7,70.5,67.6,Yes,Associate,Yes
+S02598,11.1,86.2,77,Yes,High School,No
+S02599,,,76.1,No,Doctorate,Yes
+S02600,,80.1,78.9,No,High School,No
+S02601,0.6,114.9,66.8,Yes,Associate,No
+S02602,13.1,79.9,69.2,Yes,Bachelor,No
+S02603,6.8,55.3,61.1,No,Doctorate,Yes
+S02604,,58.2,60.1,No,Doctorate,No
+S02605,6.9,104.5,50.4,No,Master,No
+S02606,9.1,88.7,75.4,No,Bachelor,Yes
+S02607,7,43.9,38,Yes,Doctorate,Yes
+S02608,-1,42.9,45.4,No,Doctorate,No
+S02609,14.5,75.5,93,No,Bachelor,No
+S02610,16.4,87.3,63.3,Yes,Bachelor,Yes
+S02611,13.3,61.4,67.1,No,Master,Yes
+S02612,4.3,41.4,46.8,Yes,High School,Yes
+S02613,9,52.5,72.3,Yes,Doctorate,Yes
+S02614,10,107.9,85.6,No,Associate,Yes
+S02615,13,84.9,86.8,Yes,High School,Yes
+S02616,13.3,,42.3,No,Bachelor,Yes
+S02617,6.3,98.3,82.5,No,High School,No
+S02618,10.4,62.5,65.2,Yes,Master,No
+S02619,12.3,67.5,27.1,nan,Bachelor,No
+S02620,17.3,71.6,41.9,Yes,Bachelor,No
+S02621,13.5,83.3,36.8,No,Bachelor,No
+S02622,13.9,96.8,,Yes,Doctorate,Yes
+S02623,10.4,112.4,62.2,Yes,High School,Yes
+S02624,17.1,91.3,55.2,Yes,Associate,No
+S02625,12,91.4,63.6,No,Doctorate,Yes
+S02626,5.7,113.5,91.3,Yes,Bachelor,No
+S02627,17,70.9,60.6,Yes,Associate,Yes
+S02628,13.5,98.8,69.9,Yes,Associate,No
+S02629,7.8,,74.5,No,Master,Yes
+S02630,7.6,87.3,,Yes,Bachelor,No
+S02631,,70.7,73.5,Yes,nan,No
+S02632,12.3,47.1,78.8,No,Bachelor,Yes
+S02633,11,81.9,80,nan,Bachelor,No
+S02634,11.6,82,,Yes,Associate,No
+S02635,18.5,63.5,79.1,No,Doctorate,No
+S02636,15.4,73.1,,No,Doctorate,No
+S02637,11,57.4,66,Yes,Bachelor,No
+S02638,14.7,57.5,78.7,No,Master,No
+S02639,4.8,65.4,91.2,No,Master,nan
+S02640,12,48.4,78.8,nan,Master,Yes
+S02641,19,63.3,63.9,Yes,Associate,Yes
+S02642,8.9,,57.7,Yes,Associate,No
+S02643,5.8,104.1,72.9,Yes,Master,No
+S02644,6.7,116.5,67.3,No,Associate,No
+S02645,4.6,67,81.8,Yes,High School,Yes
+S02646,6.1,99,50.7,No,Doctorate,Yes
+S02647,8.1,81.7,80.6,No,Associate,Yes
+S02648,3,70.3,44.1,No,Bachelor,No
+S02649,10.1,83,62.4,Yes,High School,No
+S02650,14.5,97,73.7,No,Master,No
+S02651,5.5,65,63.3,No,Doctorate,Yes
+S02652,17.6,64.6,71.6,nan,Bachelor,Yes
+S02653,12.6,66.8,85.8,No,Doctorate,No
+S02654,15.2,62.5,56.5,No,Master,No
+S02655,6.7,99,43.9,No,nan,Yes
+S02656,14.3,59.7,48,No,Associate,Yes
+S02657,4.5,63.2,63.7,No,Associate,Yes
+S02658,14.5,81.2,83.7,No,Associate,No
+S02659,10.9,79.6,60.3,Yes,Associate,Yes
+S02660,12.8,66.8,97.3,Yes,Master,No
+S02661,4.1,108.7,45.9,No,Master,Yes
+S02662,5.5,62.4,38.8,No,Doctorate,Yes
+S02663,13,71.6,68.5,Yes,Associate,Yes
+S02664,,36.5,56.5,Yes,Master,No
+S02665,12.3,68.9,53.7,No,Associate,Yes
+S02666,3.2,,65.3,Yes,Master,Yes
+S02667,14.2,56.7,46.5,No,High School,Yes
+S02668,3.8,35.9,73.2,No,Master,Yes
+S02669,12.8,57.1,67.9,No,Master,Yes
+S02670,13.1,73.5,59.6,Yes,Doctorate,nan
+S02671,6.5,70.1,68.2,Yes,nan,Yes
+S02672,12.9,66.7,93.7,No,Doctorate,Yes
+S02673,11.3,68.5,61.3,Yes,Associate,No
+S02674,,64.9,57.6,Yes,Doctorate,No
+S02675,5,74.3,75.1,No,Doctorate,nan
+S02676,0.2,72.8,55,Yes,Associate,Yes
+S02677,,,72.2,nan,nan,Yes
+S02678,2.2,71,77.3,Yes,Associate,Yes
+S02679,10.5,66.3,86,Yes,Master,Yes
+S02680,8.7,90.6,60.2,No,Doctorate,Yes
+S02681,13.4,87.1,45.2,Yes,Master,No
+S02682,8.5,74.4,61.1,nan,Master,No
+S02683,8.4,98.9,67.7,Yes,Bachelor,Yes
+S02684,13.7,76.7,55.7,Yes,Associate,Yes
+S02685,11.7,71.8,67,No,Bachelor,No
+S02686,11.6,73.6,91.1,No,Associate,No
+S02687,12.3,78.3,56.4,Yes,Master,No
+S02688,2.3,56.7,52.9,nan,Associate,Yes
+S02689,13.8,37.5,,No,High School,No
+S02690,13.1,80.6,46.4,No,Bachelor,Yes
+S02691,4.9,91.7,65.2,No,Master,No
+S02692,8.8,55,57.1,No,Doctorate,Yes
+S02693,9.8,96.5,40.2,Yes,Doctorate,No
+S02694,9.3,,62.9,Yes,Doctorate,Yes
+S02695,11.7,63.8,55.6,No,Doctorate,Yes
+S02696,17.2,109.1,72.6,No,Associate,No
+S02697,15.4,82.1,68,No,Master,nan
+S02698,3.4,69,67.6,Yes,Associate,No
+S02699,13.1,80,50.8,No,High School,No
+S02700,16.6,98.9,56.5,Yes,High School,No
+S02701,11.9,46.1,68.8,Yes,Bachelor,Yes
+S02702,15.5,101.4,51.7,Yes,Associate,No
+S02703,20.1,65.2,64.4,No,Associate,Yes
+S02704,15.1,89.2,70.2,No,Associate,No
+S02705,11.2,62.7,76.2,No,Master,Yes
+S02706,15.2,108.7,56.9,No,Doctorate,No
+S02707,10.7,74.4,59.1,No,Associate,Yes
+S02708,10.1,48.4,67.9,Yes,High School,Yes
+S02709,8.2,84.4,54,Yes,Master,No
+S02710,17.8,101,44.3,Yes,Associate,No
+S02711,5.9,98.8,70.3,Yes,Bachelor,No
+S02712,17.7,,61.1,No,Doctorate,Yes
+S02713,12.5,91.2,73,Yes,Doctorate,Yes
+S02714,3,66.6,56.4,No,Associate,Yes
+S02715,11.8,86.8,66.3,Yes,Master,No
+S02716,-0.5,82.3,37.9,Yes,High School,Yes
+S02717,13.1,17.1,,No,Associate,No
+S02718,14.4,55,56.9,Yes,Master,No
+S02719,7,79.2,62.9,Yes,High School,No
+S02720,,78.3,62.7,No,High School,No
+S02721,19.8,74.4,59.8,No,Bachelor,No
+S02722,7.5,76.8,66,No,Doctorate,No
+S02723,4.7,99.2,65.2,Yes,High School,No
+S02724,17.4,82.1,68.3,No,Master,Yes
+S02725,19.8,28.3,46.1,No,Doctorate,No
+S02726,10,114,76.6,No,Master,No
+S02727,15.1,36.9,63.1,Yes,Master,Yes
+S02728,16.7,94.2,70.1,Yes,nan,Yes
+S02729,6.3,,63.1,Yes,Associate,Yes
+S02730,,103.5,49,No,Bachelor,No
+S02731,16.2,69.4,103,Yes,Master,nan
+S02732,18.4,82.7,66.9,No,Associate,Yes
+S02733,12.8,35.3,41.3,nan,High School,No
+S02734,5.6,89.6,63.6,No,Master,Yes
+S02735,19.9,83.3,59.1,Yes,Master,No
+S02736,7.3,87.3,62.6,No,Master,No
+S02737,8.3,94,40.5,nan,High School,Yes
+S02738,11.7,78.6,,No,High School,Yes
+S02739,17.8,70.8,51.9,No,Master,Yes
+S02740,14.3,58.8,87.1,Yes,Master,Yes
+S02741,12.1,66.1,63.4,No,High School,No
+S02742,12.3,99.1,75.8,No,Associate,nan
+S02743,10.2,58.2,78.3,Yes,High School,Yes
+S02744,12.8,38.1,71.7,Yes,Bachelor,Yes
+S02745,-2.6,55.2,67.4,No,High School,No
+S02746,8.5,87.1,81.5,Yes,Bachelor,No
+S02747,11.2,68.9,55.7,No,Bachelor,No
+S02748,4.2,87.1,76.2,No,Master,nan
+S02749,11.9,35,58.8,No,Associate,nan
+S02750,9,15.3,66.4,No,Associate,Yes
+S02751,18.8,80.3,46.8,nan,Doctorate,Yes
+S02752,17.9,95.1,45.4,No,High School,nan
+S02753,7.7,40.8,63.9,Yes,Associate,No
+S02754,9.2,85.5,81.1,No,Doctorate,Yes
+S02755,9.6,98.8,,Yes,Master,nan
+S02756,7.7,74.9,90.3,No,Bachelor,Yes
+S02757,11,93,,No,High School,nan
+S02758,6.2,78.8,62.5,No,Associate,No
+S02759,,69.7,87.2,No,Bachelor,Yes
+S02760,13.1,,84.6,No,Master,nan
+S02761,13.1,113.3,44.6,No,High School,Yes
+S02762,6,63.8,,No,High School,No
+S02763,14.5,73.2,72.7,No,Master,nan
+S02764,6.8,55.2,75.8,Yes,Doctorate,No
+S02765,11.3,78.1,74.1,Yes,High School,No
+S02766,14.1,71.9,62.5,Yes,Master,No
+S02767,9.8,98.2,60.3,No,Associate,Yes
+S02768,12.3,103.4,63.4,No,High School,Yes
+S02769,7.4,90.8,53.8,No,Associate,No
+S02770,9,95.9,44.5,No,nan,No
+S02771,9,60.9,72.8,Yes,High School,No
+S02772,6.3,55.9,73.6,Yes,Bachelor,Yes
+S02773,9.1,,91.3,Yes,Doctorate,Yes
+S02774,2.3,75.4,56.1,No,High School,No
+S02775,7.5,115,70.5,No,Doctorate,Yes
+S02776,8.6,36.6,61.2,Yes,Doctorate,No
+S02777,8.7,87.4,62.8,No,Associate,No
+S02778,8.8,87.1,55.5,No,Doctorate,No
+S02779,9.7,59.8,65.7,Yes,Bachelor,No
+S02780,12.4,55.6,85.8,Yes,Master,nan
+S02781,14.4,68.2,58.5,No,High School,Yes
+S02782,6.8,42.2,71.1,No,Associate,Yes
+S02783,4,104.1,56.1,No,High School,No
+S02784,4.8,129,43.1,No,Master,No
+S02785,7.6,68.2,62.7,No,High School,No
+S02786,8.2,62.2,93.7,No,High School,Yes
+S02787,6.2,48.8,52.8,Yes,Associate,No
+S02788,3.5,53.1,50.5,No,Associate,Yes
+S02789,7.7,63.2,51.9,Yes,nan,Yes
+S02790,10.9,99.2,92.1,Yes,Associate,No
+S02791,13,138.9,81.6,No,Associate,Yes
+S02792,7.2,60.5,74.5,No,High School,No
+S02793,7.9,57,85.3,No,Associate,Yes
+S02794,5.4,51.6,78.6,Yes,Master,No
+S02795,9.8,84,63.4,No,Master,No
+S02796,5.8,81.9,,No,High School,No
+S02797,12.9,77,80.4,Yes,Master,Yes
+S02798,1.1,66.1,66.7,No,Master,Yes
+S02799,8.2,102.2,51.2,No,Associate,Yes
+S02800,11.5,90.3,72.9,Yes,Master,Yes
+S02801,10.9,89.4,60.2,nan,Master,Yes
+S02802,23.5,82.4,81.7,Yes,Doctorate,No
+S02803,11.7,71.2,50.5,Yes,Associate,No
+S02804,5,60.7,73.5,No,Bachelor,Yes
+S02805,9.5,85.4,67.4,Yes,High School,Yes
+S02806,1.1,83.5,67.7,No,High School,Yes
+S02807,9.6,86.3,69.2,Yes,Bachelor,Yes
+S02808,5.8,43.7,62.1,No,Associate,No
+S02809,14.6,81.8,72.5,Yes,Doctorate,No
+S02810,,68.8,69.2,No,Associate,Yes
+S02811,9.4,57.4,66.7,No,Bachelor,Yes
+S02812,6.8,,83.1,Yes,Bachelor,Yes
+S02813,18.7,78.5,44.9,Yes,Bachelor,No
+S02814,8.4,122.1,73.8,No,Master,Yes
+S02815,19.2,84.7,68.3,No,Bachelor,No
+S02816,14.1,69.1,72.5,No,Doctorate,Yes
+S02817,12.4,72.8,74,No,nan,No
+S02818,11.8,51.6,74.9,No,Doctorate,No
+S02819,12,99.6,59.2,Yes,Bachelor,No
+S02820,0.4,81.3,55.2,Yes,Doctorate,Yes
+S02821,8.6,81.6,72.1,No,Associate,No
+S02822,14.2,53.7,87.1,No,Bachelor,No
+S02823,9.8,90.6,61.9,No,Associate,No
+S02824,3,56.3,49.8,No,Associate,No
+S02825,9.7,63.9,76.9,No,Bachelor,Yes
+S02826,18.5,77.5,52.5,No,Associate,Yes
+S02827,16.2,63.4,69.7,No,Associate,No
+S02828,9.7,59.2,50,No,Associate,Yes
+S02829,14.8,74,60.7,nan,Doctorate,Yes
+S02830,8.2,,64.8,No,Doctorate,No
+S02831,1.5,,60.6,Yes,Doctorate,Yes
+S02832,,89.1,68.5,nan,Master,No
+S02833,17.8,84.7,69.8,No,Doctorate,Yes
+S02834,,65.5,57.3,No,Master,Yes
+S02835,8.8,97.4,56.7,No,High School,Yes
+S02836,8.5,40.3,83.9,No,High School,nan
+S02837,19.5,83.7,61.4,Yes,Associate,Yes
+S02838,18.1,91.8,69.4,Yes,Associate,Yes
+S02839,21.1,73.2,44.4,Yes,Doctorate,Yes
+S02840,9.2,60.6,91.9,Yes,Bachelor,No
+S02841,11.5,74.3,71.9,Yes,nan,No
+S02842,2.4,59.8,34.6,Yes,Associate,No
+S02843,17.4,85.3,49.8,No,Doctorate,Yes
+S02844,4.2,93.9,54.2,Yes,Associate,Yes
+S02845,11.1,83.9,90.7,Yes,Associate,Yes
+S02846,4.5,82.7,102.9,No,Bachelor,Yes
+S02847,7.1,90.2,73,No,Doctorate,Yes
+S02848,5.8,92.5,81.4,Yes,Bachelor,Yes
+S02849,7,59.4,83.7,Yes,High School,No
+S02850,7.3,44.2,48.5,No,High School,Yes
+S02851,7.3,80.6,63.9,No,Bachelor,Yes
+S02852,14.2,93.5,63.7,Yes,Bachelor,No
+S02853,4.5,43.4,85.7,Yes,Doctorate,Yes
+S02854,11.1,76.4,96.4,No,Doctorate,Yes
+S02855,16.1,97.6,98.2,No,High School,No
+S02856,7.4,72.7,72.5,No,High School,No
+S02857,,105.4,70.8,Yes,Bachelor,No
+S02858,8.8,101.7,58.3,No,Doctorate,Yes
+S02859,15.9,71.3,65.9,Yes,High School,Yes
+S02860,11,67.6,81,Yes,Master,No
+S02861,7.3,68,79.3,Yes,Master,Yes
+S02862,12.4,77.7,73.3,No,Doctorate,No
+S02863,4.5,51.5,52.3,nan,High School,No
+S02864,13.4,47.8,94,nan,High School,No
+S02865,12,29.6,72.1,Yes,Master,Yes
+S02866,,74.6,68,Yes,Master,No
+S02867,5.8,115.8,78.5,No,High School,No
+S02868,5.6,35.2,55.4,No,Master,nan
+S02869,12.7,71.3,54,No,High School,nan
+S02870,16.1,70.7,59.5,nan,High School,No
+S02871,6.8,72,49.9,Yes,High School,No
+S02872,12.3,100.1,66.8,No,High School,No
+S02873,-0.4,57.2,34.5,Yes,Master,Yes
+S02874,7.1,36.1,57.8,Yes,Doctorate,No
+S02875,9.8,64.3,35.5,Yes,Doctorate,No
+S02876,5.5,61.6,61.1,No,Bachelor,No
+S02877,5.3,30.4,61.8,No,Associate,Yes
+S02878,6.7,79.9,82.6,Yes,Master,No
+S02879,11.5,51.3,69.3,Yes,Bachelor,Yes
+S02880,9.1,73.3,53.3,nan,Associate,No
+S02881,-1.2,67.7,59.2,No,Bachelor,Yes
+S02882,-0.6,53.5,86.5,nan,Doctorate,Yes
+S02883,7,92.8,48.7,No,Doctorate,nan
+S02884,12.3,69.4,97.1,Yes,Bachelor,Yes
+S02885,-3.7,76.1,71.3,Yes,nan,Yes
+S02886,7.5,86.7,45.6,No,nan,Yes
+S02887,,80.8,49.5,Yes,Master,No
+S02888,16.9,77.9,77.5,No,nan,Yes
+S02889,8.1,58.5,76.1,Yes,Doctorate,No
+S02890,11.9,52.8,71.5,No,Associate,Yes
+S02891,10.7,78.2,66.7,Yes,High School,Yes
+S02892,-0.7,55.8,,No,Associate,Yes
+S02893,13.8,90.9,53.3,No,High School,No
+S02894,11.1,72.4,70.8,nan,Doctorate,No
+S02895,12.5,88,89.3,No,Master,No
+S02896,29.6,55.3,64.5,Yes,High School,Yes
+S02897,-0.4,52.2,68.9,Yes,Bachelor,Yes
+S02898,18.6,108.6,80.4,Yes,nan,No
+S02899,8.6,72,57.2,Yes,High School,nan
+S02900,11.4,150,71.2,No,Doctorate,No
+S02901,9.8,46.8,77,No,Associate,Yes
+S02902,7.9,69.3,54,No,Master,Yes
+S02903,7.2,101,45.5,No,Associate,No
+S02904,11.6,43.7,61.6,No,Master,Yes
+S02905,2.4,120.5,,No,Doctorate,No
+S02906,13.8,79.1,43,No,Doctorate,Yes
+S02907,,58.6,68.6,nan,Associate,Yes
+S02908,4.3,82,62.2,Yes,Doctorate,No
+S02909,7.7,97.2,61.6,No,Doctorate,Yes
+S02910,16.3,58.5,69.5,nan,Associate,No
+S02911,7.3,61.4,,No,High School,No
+S02912,11.8,80,82.9,Yes,Bachelor,Yes
+S02913,6.3,84.3,51.6,No,Associate,No
+S02914,13.8,71,70.4,No,Bachelor,Yes
+S02915,,83,75.5,Yes,Associate,Yes
+S02916,19.2,92.1,86.9,Yes,Bachelor,No
+S02917,9.1,78.5,64.5,nan,Associate,No
+S02918,13.3,61.2,43.1,No,High School,Yes
+S02919,10.5,74.6,41.1,Yes,High School,Yes
+S02920,16.5,,84.1,No,Bachelor,Yes
+S02921,6.4,81.7,,Yes,High School,Yes
+S02922,13.7,99.8,59.3,Yes,Master,No
+S02923,9,64.7,48.1,Yes,Master,Yes
+S02924,9.7,80.3,59.2,nan,Bachelor,Yes
+S02925,10.5,90.9,91.2,nan,Bachelor,No
+S02926,,,65.5,No,Associate,No
+S02927,9.4,,52.9,No,Master,No
+S02928,11.1,52.6,80.7,Yes,High School,nan
+S02929,17.9,,27.6,No,Associate,nan
+S02930,14.9,108.7,64.9,Yes,Bachelor,Yes
+S02931,,63.5,59.7,nan,Doctorate,Yes
+S02932,7.7,57.1,60.9,Yes,Doctorate,nan
+S02933,5.6,,43.4,No,Associate,No
+S02934,14.8,78.6,62.8,Yes,Master,No
+S02935,14.4,68,59,No,Bachelor,Yes
+S02936,17.4,51.3,50.7,Yes,Doctorate,No
+S02937,7,104.4,59,No,Associate,Yes
+S02938,8.9,57.8,35.9,Yes,Master,Yes
+S02939,1.8,,97.6,No,Doctorate,No
+S02940,8,77.2,13.6,Yes,nan,Yes
+S02941,15,,62.8,No,Doctorate,No
+S02942,7.7,44,62.5,No,High School,No
+S02943,13.2,66.4,56.5,Yes,Master,Yes
+S02944,9,91.5,61.4,Yes,Doctorate,No
+S02945,11.6,78.8,74.5,No,Master,No
+S02946,4.3,33.8,46.1,No,Bachelor,Yes
+S02947,10.4,102.8,38.4,Yes,Master,Yes
+S02948,-5,90.9,57,Yes,High School,No
+S02949,9.1,78.8,24.2,No,High School,Yes
+S02950,,78.3,51.9,Yes,High School,No
+S02951,16,88.5,56.9,No,Bachelor,No
+S02952,13.9,121.5,66.4,Yes,Bachelor,Yes
+S02953,12.3,92.6,84.4,No,Master,No
+S02954,17.6,,69.5,No,Associate,No
+S02955,5.3,50.5,70.1,No,High School,No
+S02956,18.7,,54.1,No,High School,No
+S02957,,90.5,55.8,Yes,Master,Yes
+S02958,8.8,72.7,56.2,Yes,Doctorate,No
+S02959,15.7,64.5,63.1,No,High School,Yes
+S02960,4.5,,58.4,nan,Doctorate,Yes
+S02961,5.9,55.2,69.8,Yes,Bachelor,Yes
+S02962,7,92.4,74.3,No,Associate,nan
+S02963,7.4,66.3,84.2,No,Doctorate,Yes
+S02964,4.7,32.6,69.1,No,Associate,Yes
+S02965,16.1,65.9,,Yes,Associate,No
+S02966,8.7,73.9,82.4,No,High School,Yes
+S02967,11.8,86,,No,Bachelor,No
+S02968,7.1,83.7,59.6,No,Master,Yes
+S02969,0.9,49.2,49.4,No,Bachelor,No
+S02970,11.4,77.4,57.8,Yes,Bachelor,Yes
+S02971,0.4,64.3,52.6,Yes,Bachelor,Yes
+S02972,9.7,67.8,66.8,No,Master,No
+S02973,3.2,55,72.3,No,Bachelor,Yes
+S02974,19.9,,58.9,No,Bachelor,nan
+S02975,14.6,137.6,59.5,No,nan,Yes
+S02976,10.5,112.1,25.2,No,Bachelor,Yes
+S02977,16.3,55,56.5,No,Doctorate,No
+S02978,5.8,76.3,112.1,No,Doctorate,No
+S02979,12.7,68.7,81.8,No,High School,No
+S02980,11,77.8,85,Yes,Master,No
+S02981,11.3,93.3,72.3,Yes,Doctorate,Yes
+S02982,16.4,72.4,,No,High School,Yes
+S02983,13.7,60.8,59.8,No,Bachelor,Yes
+S02984,11.4,98.1,52.8,Yes,Doctorate,No
+S02985,1.7,50.3,87.3,No,High School,Yes
+S02986,5.2,78.8,48.6,No,Doctorate,No
+S02987,9.4,45.3,72.4,Yes,Associate,No
+S02988,,54.5,91.7,No,Doctorate,nan
+S02989,4.3,89.9,79.5,nan,Doctorate,No
+S02990,22.1,61.4,61.1,Yes,Doctorate,No
+S02991,17.6,37.5,84.2,Yes,nan,Yes
+S02992,13,60.5,68.3,Yes,Bachelor,Yes
+S02993,10.4,58.4,63,Yes,Associate,No
+S02994,8.9,49.8,76.1,Yes,Associate,Yes
+S02995,5.2,86,51.8,Yes,Master,No
+S02996,10.4,44.1,43.4,No,Master,No
+S02997,11.3,,61.5,No,Bachelor,Yes
+S02998,3.8,77.7,55.2,Yes,Doctorate,nan
+S02999,11.7,68.1,,No,Bachelor,Yes
+S03000,9.2,66.9,65.5,Yes,Associate,Yes
